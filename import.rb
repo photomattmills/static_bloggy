@@ -1,13 +1,15 @@
+# from the standard library :
 require 'rss/1.0'
 require 'rss/2.0'
 require 'open-uri'
 require 'time'
-require 'rubygems'
+
+# gem install to_slug if you don't have it already. 
 require 'to_slug'
 
-source = "http://photomattmills.com/rss.txt"# url or local file
-content = "" # raw content of rss feed will be loaded here
-open(source) do |s| content = s.read end
+source = ""                                 # put your feed url here
+content = ""                                # this is just initializing the string
+open(source) do |s| content = s.read end 
 rss = RSS::Parser.parse(content, false)
 
 rss.items.each do |item|
