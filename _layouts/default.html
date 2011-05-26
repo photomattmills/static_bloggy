@@ -42,10 +42,21 @@
           <div id="content">
             
 							{{ content }}
-
+              <div id="pagination">
+                {% if paginator.previous_page and paginator.previous_page != "1" %}
+                <a href="/">&lt;&lt; Previous</a> :: 
+                {% elsif paginator.previous_page %}
+                <a href="/page{{ paginator.previous_page }}">&lt;&lt; Previous</a> :: 
+                {% endif %}
+                Page {{ paginator.page }} of {{ paginator.total_pages }}
+                {% if paginator.next_page %} 
+                 :: <a href="/page{{ paginator.next_page }}">Next &gt;&gt;</a>
+                {% endif %}
+              </div>
           </div>
         </div>
       </div>
+      <br>
       <div style="margin: 0 auto;text-align:center;">
 <script type="text/javascript"><!--
 google_ad_client = "pub-7375884563819541";
