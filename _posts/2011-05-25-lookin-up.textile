@@ -1,0 +1,13 @@
+---
+layout: post
+title: looking up
+date: 2011-05-25 21:28:07 
+---
+
+literally.  
+
+<div class="center">
+  <img src="http://www.photographermattmills.com/images/sunandmoon/0032.jpg"  alt="Photos" /><br />
+  <img src="http://www.photographermattmills.com/images/sunandmoon/0031.jpg"  alt="Photos" /><br />
+  <img src="http://www.photographermattmills.com/images/sunandmoon/0033.jpg"  alt="Photos" /><br />
+</div>
