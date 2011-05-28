@@ -10,5 +10,4 @@ Velvet monkey puts on an annual fashion show at their Plaza district location, a
   <img src="http://www.photographermattmills.com/images/sunandmoon/0041.jpg"  alt="Photos" /><br />
   <img src="http://www.photographermattmills.com/images/sunandmoon/0042.jpg"  alt="Photos" /><br />
   <img src="http://www.photographermattmills.com/images/sunandmoon/0043.jpg"  alt="Photos" /><br />
-  <img src="http://www.photographermattmills.com/images/sunandmoon/0044.jpg"  alt="Photos" /><br />
 </div>
