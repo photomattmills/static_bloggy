@@ -1,6 +1,6 @@
 ---
 layout: post
-title: punk rock show
+title: rock show
 date: 2011-07-19 13:58:20
 ---
 
