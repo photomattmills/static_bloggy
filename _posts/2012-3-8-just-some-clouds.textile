@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Just a photo of the clouds
+title: Just photos of the clouds
 date: 2012-03-08 23:23:20
 ---
 
