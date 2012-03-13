@@ -1,0 +1,10 @@
+---
+layout: post
+title: This cloud thing is really getting out of hand
+date: 2012-03-13 08:05:20 -0600
+---
+
+Just a quick thought while I'm working-- I'm sitting here and I realize that my phone has more ram and processing power than the web server that runs this site. How much longer before my phone could run my entire web presence without it being noticeable? and how long before the "mobile web" is the only web consumers like you and me use? There is a need for big iron (big server farms, lots of data processing capacity), but most of that that I use could be distributed. I think it's not going to be long before I can buy an app that makes me the center of my social media (as opposed to some external company), and when I want to turn it off or hide those embarrassing photos I posted, I can. <a href="http://www.youtube.com/watch?v=QOEMv0S8AcA">Freedom in the cloud</a>, anyone? 
+
+<div class="center">
+</div>
