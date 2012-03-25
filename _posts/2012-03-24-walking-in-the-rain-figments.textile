@@ -1,0 +1,12 @@
+---
+layout: post
+title: figments from san fransisco
+date: 2012-03-24 13:22:20 -0800
+---
+
+I really like that word, 'figment'. I'm stealing its use to describe photographs, of course. There may or may not be photos of a very long night in SF coming soon, depending on the hangover. 
+
+<div class="center">
+  <img src="http://photomattmills.com/images/sf-march-rain/0001.jpg" />
+  <img src="http://photomattmills.com/images/sf-march-rain/0002.jpg" />
+</div>
