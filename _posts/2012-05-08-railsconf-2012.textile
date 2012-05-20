@@ -1,0 +1,27 @@
+---
+layout: post
+title: Railsconf 2012
+date: 2012-05-20 14:45:20 -0600
+---
+
+This was several weeks ago now, but I was in austin for a few days for Railsconf 2012. It was pretty fun, even though I didn't go to any talks really. My job, while I was there, was to answer questions people had about our product in our booth. Pretty cool to meet everyone, actually. 
+
+Note that these photos are a bit out of sequence; my little camera had the wrong year. 
+
+<div class="center">
+    <img src='http://photomattmills.com/images/railsconf-nmf-fireman/0012.jpg'>
+    <img src='http://photomattmills.com/images/railsconf-nmf-fireman/0001.jpg'>
+    <img src='http://photomattmills.com/images/railsconf-nmf-fireman/0002.jpg'>
+    <img src='http://photomattmills.com/images/railsconf-nmf-fireman/0003.jpg'>
+    <img src='http://photomattmills.com/images/railsconf-nmf-fireman/0004.jpg'>
+    <img src='http://photomattmills.com/images/railsconf-nmf-fireman/0005.jpg'>
+    <img src='http://photomattmills.com/images/railsconf-nmf-fireman/0013.jpg'>
+    <img src='http://photomattmills.com/images/railsconf-nmf-fireman/0014.jpg'>
+    <img src='http://photomattmills.com/images/railsconf-nmf-fireman/0015.jpg'>
+    <img src='http://photomattmills.com/images/railsconf-nmf-fireman/0006.jpg'>
+    <img src='http://photomattmills.com/images/railsconf-nmf-fireman/0007.jpg'>
+    <img src='http://photomattmills.com/images/railsconf-nmf-fireman/0008.jpg'>
+    <img src='http://photomattmills.com/images/railsconf-nmf-fireman/0009.jpg'>
+    <img src='http://photomattmills.com/images/railsconf-nmf-fireman/0010.jpg'>
+    <img src='http://photomattmills.com/images/railsconf-nmf-fireman/0011.jpg'>
+</div>
