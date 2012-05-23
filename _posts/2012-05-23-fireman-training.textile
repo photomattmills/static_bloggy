@@ -18,4 +18,5 @@ photos somewhat tangential:
   <img src='http://photomattmills.com/images/railsconf-nmf-fireman/0030.jpg'>
   <img src='http://photomattmills.com/images/railsconf-nmf-fireman/0031.jpg'>
   <img src='http://photomattmills.com/images/railsconf-nmf-fireman/0032.jpg'>
+  <img src='http://photomattmills.com/images/railsconf-nmf-fireman/0033.jpg'>
 </div>
