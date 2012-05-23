@@ -1,0 +1,21 @@
+---
+layout: post
+title: fireman training
+date: 2012-05-23 12:18:36 -0500
+---
+
+Let's see... this was two weeks ago? I was out in SF again to get trained in what we call the 'fireman' role. Basically, a fire is a problem caused by the platform, requiring both access to the backend and knowledge of our code base to solve. So I got a week long crash course in all that. It's a big app that does a lot between a lot of services, so it was more figuring out how to find out what I'd need to know than rote memorization. 
+
+Also, of course, there was the non-work times. A week in one of the most beautiful cities in the world? Yes. Any time. On my last two days, I flirted with the idea of staying for another week, but I knew that that would just turn into me extending the stay as long as possible (two weeks, then a month, then finding an apartment...). Not a problem for anyone out there, but a bitch for some people back here. Plus, I would have missed mothers' day brunch, and I couldn't have done that. 
+
+photos somewhat tangential: 
+
+<div class="center">
+  <img src='http://photomattmills.com/images/railsconf-nmf-fireman/0026.jpg'>
+  <img src='http://photomattmills.com/images/railsconf-nmf-fireman/0027.jpg'>
+  <img src='http://photomattmills.com/images/railsconf-nmf-fireman/0028.jpg'>
+  <img src='http://photomattmills.com/images/railsconf-nmf-fireman/0029.jpg'>
+  <img src='http://photomattmills.com/images/railsconf-nmf-fireman/0030.jpg'>
+  <img src='http://photomattmills.com/images/railsconf-nmf-fireman/0031.jpg'>
+  <img src='http://photomattmills.com/images/railsconf-nmf-fireman/0032.jpg'>
+</div>
