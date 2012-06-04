@@ -1,0 +1,14 @@
+---
+layout: post
+title: coming home from sf
+date: 2012-06-04 01:10:39 -0500
+---
+
+These are the last photos from my trip to SF. Went to a lovely barbecue with the devs, and then walked to the nearest BART station, which was a bit of a hike with my luggage, but the fact that I'd had plenty of beer with the food helped, and I made it just fine, with plenty of time to get to my gate. A good trip. 
+
+<div class="center">
+  <img src='http://photomattmills.com/images/coming-home-from-sf/0001.jpg'>
+  <img src='http://photomattmills.com/images/coming-home-from-sf/0002.jpg'>
+  <img src='http://photomattmills.com/images/coming-home-from-sf/0003.jpg'>
+  <img src='http://photomattmills.com/images/coming-home-from-sf/0004.jpg'>
+</div>
