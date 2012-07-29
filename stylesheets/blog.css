@@ -5,7 +5,7 @@ a:link {
 a:active, a:focus { outline: 0; }
 
 body {
-		font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+		font-family: 'Average', Helvetica, Arial, sans-serif;
 		font-size: 10px;
 		color: #000;
 		background: #FFF;
@@ -93,7 +93,7 @@ p.caption {
 	
 		#content div.post { 
 			margin: 20px 0 50px 0; 
-			font-family: "Arvo", times;
+			font-family: "Average", times;
 			font-size: 14px;
 			line-height: 1.5;}
 		
