@@ -5,7 +5,7 @@ a:link {
 a:active, a:focus { outline: 0; }
 
 body {
-		font-family: 'Average', Helvetica, Arial, sans-serif;
+		font-family: 'Georgia', Times, serif;
 		font-size: 10px;
 		color: #000;
 		background: #FFF;
@@ -76,7 +76,7 @@ p.caption {
 				}
 				#content #header #bottom #desc {
 					width: 50%;
-					font-size: 10px;
+					font-size: 12px;
 					display: inline-block;
 				}
 				
