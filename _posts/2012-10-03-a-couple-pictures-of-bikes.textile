@@ -1,0 +1,12 @@
+---
+layout: post
+title: a couple pictures of bikes
+date: 2012-10-03 01:12:06 -0500
+---
+
+This post does what it says on the label, that's all. If you're wodering why I'm pushing out so many posts at once, I'm trying to clear most of the backlog before I go to spain. I've got a week and a half to get caught up to right now. Also, I have to be up in the morning, so this is all for tonight. 
+
+<div class="center">
+	<img src='http://photomattmills.com/images/late-summer-roadtrips/0012.jpg' />
+	<img src='http://photomattmills.com/images/late-summer-roadtrips/0013.jpg' />
+</div>
