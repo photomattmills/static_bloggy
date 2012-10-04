@@ -1,0 +1,12 @@
+---
+layout: post
+title: birds and planes
+date: 2012-10-03 20:37:10 -0500
+---
+
+Things in the sky.
+
+<div class="center">
+	<img src='http://photomattmills.com/images/late-summer-roadtrips/0024.jpg' />
+	<img src='http://photomattmills.com/images/late-summer-roadtrips/0025.jpg' />
+</div>
