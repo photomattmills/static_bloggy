@@ -10,6 +10,5 @@ A nice day out with my parents and Sophie. Tune in later for ruminations on the 
 	<img src='http://photomattmills.com/images/late-summer-roadtrips/0031.jpg' />
 	<img src='http://photomattmills.com/images/late-summer-roadtrips/0032.jpg' />
 	<img src='http://photomattmills.com/images/late-summer-roadtrips/0033.jpg' />
-	<img src='http://photomattmills.com/images/late-summer-roadtrips/0034.jpg' />
-	<img src='http://photomattmills.com/images/late-summer-roadtrips/0035.jpg' />
+	<img src='http://photomattmills.com/images/late-summer-roadtrips/0034.jpg' /> <img src='http://photomattmills.com/images/late-summer-roadtrips/0035.jpg' />
 </div>
