@@ -1,0 +1,15 @@
+---
+layout: post
+title: some random things
+date: 2012-10-10 11:33:15 -0700
+---
+
+theses are just from one of those fortnights where things just sort of move along. We went to the range and took the long way home, took a midnight bike ride, went to the lake and sat on the shore under the starlight. The there was Hunter's birthday, where the light was awful but the food was wonderful. 
+
+<div class="center">
+  <img src='http://photomattmills.com/images/late-summer-roadtrips/0054.jpg' />
+  <img src='http://photomattmills.com/images/late-summer-roadtrips/0055.jpg' />
+  <img src='http://photomattmills.com/images/late-summer-roadtrips/0056.jpg' />
+  <img src='http://photomattmills.com/images/late-summer-roadtrips/0057.jpg' />
+  <img src='http://photomattmills.com/images/late-summer-roadtrips/0058.jpg' />
+</div>
