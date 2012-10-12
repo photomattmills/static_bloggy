@@ -23,7 +23,7 @@ date: #{Time.now.strftime('%Y-%m-%d %H:%M:%S %z')}
 ---
 
 <div class="center">
-  #{images.join("\n")}
+  #{images.join("\n  ")}
 </div>
 eom
 
