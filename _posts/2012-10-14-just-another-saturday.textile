@@ -1,0 +1,14 @@
+---
+layout: post
+title: Just another saturday
+date: 2012-10-14 12:04:47 +0200
+---
+
+You know, havin a garage sale, riding bikes, the usual. 
+
+<div class="center">
+  <img src='http://photomattmills.com/images/late-summer-roadtrips/0092.jpg' />
+  <img src='http://photomattmills.com/images/late-summer-roadtrips/0093.jpg' />
+  <img src='http://photomattmills.com/images/late-summer-roadtrips/0094.jpg' />
+  <img src='http://photomattmills.com/images/late-summer-roadtrips/0095.jpg' />
+</div>
