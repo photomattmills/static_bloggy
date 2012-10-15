@@ -7,6 +7,6 @@ date: 2012-10-15 13:52:37 +0200
 And a photo of Sophia by candlelight. 
 
 <div class="center">
-  <img src='http://photomattmills.com/images/late-summer-roadtrips/0105.jpg' />
   <img src='http://photomattmills.com/images/late-summer-roadtrips/0106.jpg' />
+  <img src='http://photomattmills.com/images/late-summer-roadtrips/0107.jpg' />
 </div>
