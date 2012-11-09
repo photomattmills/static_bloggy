@@ -39,9 +39,11 @@ p.caption {
 		}
 		
 			#content #header #top {
+        color: fff;
+        background-color: #000;
 				border-bottom: 1px solid #000;
 				overflow: hidden;
-				padding: 0 0 10px 0;
+				padding: 0 10px 10px 0;
 				position: relative;
 				text-align: right;
 				
@@ -49,7 +51,7 @@ p.caption {
 		
 				#content #header #top a.title {
 					width: 688px;
-					color: #000;
+					color: #ffffff;
 					font-family: 'EB Garamond', serif;
 					font-size: 72px;
 					line-height: 1;
