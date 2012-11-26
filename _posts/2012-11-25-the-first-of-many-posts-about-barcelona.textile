@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The first of may posts about Barcelona
+title: The first of many posts about Barcelona
 date: 2012-11-25 23:39:30 -0600
 ---
 
