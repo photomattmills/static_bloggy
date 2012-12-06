@@ -1,0 +1,14 @@
+---
+layout: post
+title: Churches
+date: 2012-12-06 01:02:29 -0600
+---
+
+It would be possible to go to Barcelona and spend all of your time there just looking at all the different churches. There's probably a degree in medieval architecture to be had for a thesis on them. I took a few pictures. 
+
+<div class="center">
+  <img src='http://photomattmills.com/images/bcn-architecture/0001.jpg' />
+  <img src='http://photomattmills.com/images/bcn-architecture/0002.jpg' />
+  <img src='http://photomattmills.com/images/bcn-architecture/0003.jpg' />
+  <img src='http://photomattmills.com/images/bcn-architecture/0011.jpg' />
+</div>
