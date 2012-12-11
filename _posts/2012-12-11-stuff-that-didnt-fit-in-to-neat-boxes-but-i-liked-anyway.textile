@@ -1,0 +1,16 @@
+---
+layout: post
+title: stuff that didn't fit in to neat boxes but I liked anyway
+date: 2012-12-11 00:14:29 -0600
+---
+
+There are a bunch of street photos still to edit, and a nice post about silly tourists, but these needed to go somewhere and the mental energy required to edit 25 photos down to 10 was not a thing I had, so here are these, which were much easier to bring to press. Have a nice day. 
+
+<div class="center">
+  <img src='http://photomattmills.com/images/bcn-misc/0001.jpg' />
+  <img src='http://photomattmills.com/images/bcn-misc/0002.jpg' />
+  <img src='http://photomattmills.com/images/bcn-misc/0003.jpg' />
+  <img src='http://photomattmills.com/images/bcn-misc/0004.jpg' />
+  <img src='http://photomattmills.com/images/bcn-misc/0005.jpg' />
+  <img src='http://photomattmills.com/images/bcn-misc/0006.jpg' />
+</div>
