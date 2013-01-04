@@ -1,6 +1,6 @@
 ---
 layout: post
-title: bretts halloween party
+title: brett's halloween party
 date: 2013-01-03 22:19:16 -0600
 ---
 
@@ -12,4 +12,5 @@ In other words, one hell of a night.
   <img src='http://photomattmills.com/images/bretts-party/0001.jpg' />
   <img src='http://photomattmills.com/images/bretts-party/0002.jpg' />
   <img src='http://photomattmills.com/images/bretts-party/0003.jpg' />
+  <img src='http://photomattmills.com/images/bretts-party/0004.jpg' />
 </div>
