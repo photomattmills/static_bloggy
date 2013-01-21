@@ -40,4 +40,6 @@ date: #{Time.now.strftime('%Y-%m-%d %H:%M:%S %z')}
 </div>
 eom
 
+`scp -r /Users/#{ENV['USER']}/Desktop/#{args.image_dir} matt@notuntitled.com:~/public_html/images`
+
 end
