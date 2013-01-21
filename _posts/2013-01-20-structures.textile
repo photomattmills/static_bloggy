@@ -1,0 +1,13 @@
+---
+layout: post
+title: structures
+date: 2013-01-20 21:59:28 -0600
+---
+
+I have more pictures than words, sorry if these get a bit terse. It's a bit harder to connect the dots when themes are spread out over the months; I'm thinking I might start working on another book soon, though. Working title: 'Matt Mills turns over a new leaf (photographically).'
+
+<div class="center">
+  <img src='http://photomattmills.com/images/structures/0001.jpg' />
+  <img src='http://photomattmills.com/images/structures/0002.jpg' />
+  <img src='http://photomattmills.com/images/structures/0003.jpg' />
+</div>
