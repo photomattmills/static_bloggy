@@ -1,0 +1,15 @@
+---
+layout: post
+title: Denver, briefly (railsconf)
+date: 2013-01-20 23:39:05 -0600
+---
+
+So, just after we got back to the US, I got on another plane to go to Denver for RubyConf. It was actually a really good conf, where I learned some interesting stuff (as opposed to the confs I've been at, where I did the hallway track the whole time). Denver herself is a beautiful city, great sunrises, good walking, if a little cold after the Mediterranean. 
+
+<div class="center">
+  <img src='http://photomattmills.com/images/denver-briefly/0001.jpg' />
+  <img src='http://photomattmills.com/images/denver-briefly/0002.jpg' />
+  <img src='http://photomattmills.com/images/denver-briefly/0003.jpg' />
+  <img src='http://photomattmills.com/images/denver-briefly/0004.jpg' />
+  <img src='http://photomattmills.com/images/denver-briefly/0005.jpg' />
+</div>
