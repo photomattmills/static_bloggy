@@ -1,20 +1,3 @@
-class Dir
-  def map(&block)
-    output = []
-    self.each do |entry|
-      output << block.call(entry)
-    end
-    return output 
-  end
-end
-
-def number(n)
-  return "000#{n}" if n < 10
-  return "00#{n}"  if n < 100
-  return "0#{n}"   if n < 1000
-  return "#{n}"
-end
-
 task :new_post, [:post_name, :image_dir] do |t, args|
   puts ENV['USER']
   img_dir = "/Users/#{ENV['USER']}/Desktop/#{args.image_dir}"
@@ -38,6 +21,6 @@ date: #{Time.now.strftime('%Y-%m-%d %H:%M:%S %z')}
 </div>
 eom
 
-sh "scp -r /Users/#{ENV['USER']}/Desktop/#{args.image_dir} matt@notuntitled.com:~/public_html/images"
+  sh "scp -r /Users/#{ENV['USER']}/Desktop/#{args.image_dir} matt@notuntitled.com:~/public_html/images"
 
 end
