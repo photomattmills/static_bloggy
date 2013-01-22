@@ -1,13 +1,12 @@
 class Dir
-  def map(&block) #this will do all the contents of a file, be sure you're remembering about . and .. and all those dotfiles...
+  def map(&block)
     output = []
     self.each do |entry|
       output << block.call(entry)
     end
-    return output
+    return output 
   end
 end
-
 
 def number(n)
   return "000#{n}" if n < 10
@@ -18,14 +17,13 @@ end
 
 task :new_post, [:post_name, :image_dir] do |t, args|
   puts ENV['USER']
-  #range = args.image_numbers.split("-").map {|s| s.to_i}
-  dir = Dir.new "/Users/#{ENV['USER']}/Desktop/#{args.image_dir}"
-  files = dir.map {|filename| filename unless File.directory?("/Users/#{ENV['USER']}/Desktop/#{args.image_dir}/#{filename}")}.compact!
+  img_dir = "/Users/#{ENV['USER']}/Desktop/#{args.image_dir}"
+  
+  files = Dir.entries(img_dir).select { |filename|  !File.directory?("#{img_dir}/#{filename}") }  
   images = files.map {|file| "<img src='http://photomattmills.com/images/#{args.image_dir}/#{file}' />"}
-  
-  
   date = Time.now.strftime('%Y-%m-%d')
   slug = args.post_name.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
+  
   sh "touch _posts/#{date}-#{slug}.textile"
   file = File.open("_posts/#{date}-#{slug}.textile", "w")
   file.puts <<-eom
@@ -40,6 +38,6 @@ date: #{Time.now.strftime('%Y-%m-%d %H:%M:%S %z')}
 </div>
 eom
 
-`scp -r /Users/#{ENV['USER']}/Desktop/#{args.image_dir} matt@notuntitled.com:~/public_html/images`
+sh "scp -r /Users/#{ENV['USER']}/Desktop/#{args.image_dir} matt@notuntitled.com:~/public_html/images"
 
 end
