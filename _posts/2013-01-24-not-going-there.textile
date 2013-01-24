@@ -1,0 +1,12 @@
+---
+layout: post
+title: Not going there
+date: 2013-01-24 00:36:55 -0600
+---
+
+But I'm sure you know what the working title of this post was. 
+
+<div class="center">
+  <img src='http://photomattmills.com/images/not-going-there/0001.jpg' />
+  <img src='http://photomattmills.com/images/not-going-there/0002.jpg' />
+</div>
