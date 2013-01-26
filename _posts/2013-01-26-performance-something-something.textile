@@ -4,7 +4,9 @@ title: Performance something something
 date: 2013-01-26 13:13:18 -0600
 ---
 
-I wiped my computer thursday night and installed mountain lion. man, there was something _wrong_ with my last install. Probably something I downloaded. 
+I wiped my computer thursday night and installed mountain lion. Man, there was something _wrong_ with my last install. Probably something I downloaded; for a while there, I was using a lot of semi-sketchy software. Who knows. 
+
+There's not really a theme to these photos, other than the fact that they were next to each other chronologically, and vaguely performance related. More when there's more to tell. 
 
 <div class="center">
   <img src='http://photomattmills.com/images/performance-something/0001.jpg' />
