@@ -1,0 +1,14 @@
+---
+layout: post
+title: Performance something something
+date: 2013-01-26 13:13:18 -0600
+---
+
+I wiped my computer thursday night and installed mountain lion. man, there was something _wrong_ with my last install. Probably something I downloaded. 
+
+<div class="center">
+  <img src='http://photomattmills.com/images/performance-something/0001.jpg' />
+  <img src='http://photomattmills.com/images/performance-something/0002.jpg' />
+  <img src='http://photomattmills.com/images/performance-something/0003.jpg' />
+  <img src='http://photomattmills.com/images/performance-something/0004.jpg' />
+</div>
