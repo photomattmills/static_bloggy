@@ -1,0 +1,12 @@
+---
+layout: post
+title: just a couple photos
+date: 2013-02-10 11:23:05 -0600
+---
+
+From back in the city thanksgiving night. A long ass day, and there were no naps. 
+
+<div class="center">
+  <img src='http://photomattmills.com/images/txg-night/0001.jpg' />
+  <img src='http://photomattmills.com/images/txg-night/0002.jpg' />
+</div>
