@@ -1,0 +1,13 @@
+---
+layout: post
+title: cards against humanity
+date: 2013-02-10 12:48:41 -0600
+---
+
+This may have been the first time I playd cards against humanity. A really fun, really awful game. 
+
+<div class="center">
+  <img src='http://photomattmills.com/images/game-night/0001.jpg' />
+  <img src='http://photomattmills.com/images/game-night/0002.jpg' />
+  <img src='http://photomattmills.com/images/game-night/0003.jpg' />
+</div>
