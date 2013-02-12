@@ -1,11 +1,9 @@
 task :new_post, [:post_name, :image_dir] do |t, args|
-  puts ENV['USER']
-  img_dir = "/Users/#{ENV['USER']}/Desktop/#{args.image_dir}"
-  
-  files = Dir.entries(img_dir).select { |filename|  !File.directory?("#{img_dir}/#{filename}") }  
-  images = files.map {|file| "<img src='http://photomattmills.com/images/#{args.image_dir}/#{file}' />"}
-  date = Time.now.strftime('%Y-%m-%d')
-  slug = args.post_name.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
+  img_dir = "/Users/#{ENV['USER']}/Desktop/#{args.image_dir}"  #set this so it's easy to grab later
+  files = Dir.entries(img_dir).select { |filename|  !File.directory?("#{img_dir}/#{filename}") }  # ALL THE FILENAMES
+  images = files.map {|file| "<img src='http://photomattmills.com/images/#{args.image_dir}/#{file}' />"} #in an array of strings as img tags
+  date = Time.now.strftime('%Y-%m-%d') #right now; technically I could instantiate one time object, and not two, but live a little. 
+  slug = args.post_name.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '') #slug the title, to make a filemanmt
   
   sh "touch _posts/#{date}-#{slug}.textile"
   file = File.open("_posts/#{date}-#{slug}.textile", "w")
