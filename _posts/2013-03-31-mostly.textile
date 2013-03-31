@@ -1,0 +1,12 @@
+---
+layout: post
+title: a couple others
+date: 2013-03-31 02:59:55 -0700
+---
+
+A few more from the road, just in between places. I drove a lot, before the move. Now I drive once every other week, and the car seems a luxury that I'm not at all sure I want to keep. 
+
+<div class="center">
+  <img src='http://photomattmills.com/images/two-in-a-row/0001.jpg' />
+  <img src='http://photomattmills.com/images/two-in-a-row/0002.jpg' />
+</div>
