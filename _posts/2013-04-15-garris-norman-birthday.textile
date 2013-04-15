@@ -1,0 +1,14 @@
+---
+layout: post
+title: garris' norman birthday
+date: 2013-04-15 00:19:53 -0700
+---
+
+Small gathering, not too much drinking, just having a good time.
+
+<div class="center">
+  <img src='http://photomattmills.com/images/norman-garris/0001.jpg' />
+  <img src='http://photomattmills.com/images/norman-garris/0002.jpg' />
+  <img src='http://photomattmills.com/images/norman-garris/0003.jpg' />
+  <img src='http://photomattmills.com/images/norman-garris/0004.jpg' />
+</div>
