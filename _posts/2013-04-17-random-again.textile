@@ -1,0 +1,12 @@
+---
+layout: post
+title: random again
+date: 2013-04-17 00:01:57 -0700
+---
+
+A couple of random images, because I don't ever stop looking, not really.
+
+<div class="center">
+  <img src='http://photomattmills.com/images/random-again/0001.jpg' />
+  <img src='http://photomattmills.com/images/random-again/0002.jpg' />
+</div>
