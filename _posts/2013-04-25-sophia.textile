@@ -1,0 +1,11 @@
+---
+layout: post
+title: Sophia
+date: 2013-04-25 23:18:51 -0700
+---
+
+This is the woman I'm going to marry, one of my favorite photos of her. That's all. 
+
+<div class="center">
+  <img src='http://photomattmills.com/images/sophia/0001.jpg' />
+</div>
