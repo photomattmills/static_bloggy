@@ -1,0 +1,21 @@
+---
+layout: post
+title: Lake Tahoe (offsite/scenes from a good trip part 3)
+date: 2013-05-14 22:35:13 -0700
+---
+
+since a very large edit of these photos has already been on the "unofficial engineyard tumblr":http://engineyard.tumblr.com, I'm going to do a cliff notes version in an effort to get closer to the present. I'd really like to be posting yesterday's pictures, or at least last weeks, instead of two months ago (2.5 now; I'm behind on being behind). 
+
+In short: it was good. I was leaving one team, support, who collectively are the most expert sysadmins and devops engineers I've ever known. Also not a few really excellent rubyists. Why would I leave that? A new adventure, of course. I mean, there are reason you tell people (promotion, pay, whatever), and then there's the real reason, and the real reason is I can't sit still for too long. New people, new environment, new problems.
+
+<div class="center">
+  <img src='http://photomattmills.com/images/tahoe-1/0001.jpg' />
+  <img src='http://photomattmills.com/images/tahoe-1/0002.jpg' />
+  <img src='http://photomattmills.com/images/tahoe-1/0003.jpg' />
+  <img src='http://photomattmills.com/images/tahoe-1/0004.jpg' />
+  <img src='http://photomattmills.com/images/tahoe-1/0005.jpg' />
+  <img src='http://photomattmills.com/images/tahoe-1/0006.jpg' />
+  <img src='http://photomattmills.com/images/tahoe-1/0007.jpg' />
+  <img src='http://photomattmills.com/images/tahoe-1/0008.jpg' />
+  <img src='http://photomattmills.com/images/tahoe-1/0009.jpg' />
+</div>
