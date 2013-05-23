@@ -1,0 +1,18 @@
+---
+layout: post
+title: A's home opener
+date: 2013-05-22 20:09:02 -0700
+---
+
+I've been shooting film lately, more since we arrived, and I'm getting some results I really dig. These photos are from the A's home opener; my boss, Jamie, invited us out to tailgate. 
+
+There are a couple technical issues; they're a little distorted
+
+<div class="center">
+  <img class="film" src='http://photomattmills.com/images/ballgame-tailgate/0001.jpg' />
+  <img class="film" src='http://photomattmills.com/images/ballgame-tailgate/0002.jpg' />
+  <img class="film" src='http://photomattmills.com/images/ballgame-tailgate/0003.jpg' />
+  <img class="film" src='http://photomattmills.com/images/ballgame-tailgate/0004.jpg' />
+  <img class="film" src='http://photomattmills.com/images/ballgame-tailgate/0005.jpg' />
+  <img class="film" src='http://photomattmills.com/images/ballgame-tailgate/0006.jpg' />
+</div>
