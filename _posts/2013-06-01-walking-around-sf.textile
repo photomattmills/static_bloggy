@@ -9,8 +9,8 @@ So my walk to work from the Bart is mostly down 3rd st, which is always interest
 I'm not sure why I bother doing the whole street thing. There's a horde of amatures brute forcing the entire street photo-space (the set of possible photos you can take on the street). But the heart wants. _Le cœur a ses raisons que la raison ne connaît point_, yeah? (Pascal, natch).
 
 <div class="center">
-  <img src='http://photomattmills.com/images/walking-around-sf/0001.jpg' />
-  <img src='http://photomattmills.com/images/walking-around-sf/0002.jpg' />
-  <img src='http://photomattmills.com/images/walking-around-sf/0003.jpg' />
-  <img src='http://photomattmills.com/images/walking-around-sf/0004.jpg' />
+  <img class="film" src='http://photomattmills.com/images/walking-around-sf/0001.jpg' />
+  <img class="film" src='http://photomattmills.com/images/walking-around-sf/0002.jpg' />
+  <img class="film" src='http://photomattmills.com/images/walking-around-sf/0003.jpg' />
+  <img class="film" src='http://photomattmills.com/images/walking-around-sf/0004.jpg' />
 </div>

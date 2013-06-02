@@ -11,12 +11,12 @@ Editing these photos was really difficult. I got way more attached to these than
 Also, unrelated: I'm in Dublin! It's decent here. The smells and sights and sounds of another country.
 
 <div class="center">
-  <img src='http://photomattmills.com/images/kelsey-schim-birthday-picnic/0001.jpg' />
-  <img src='http://photomattmills.com/images/kelsey-schim-birthday-picnic/0002.jpg' />
-  <img src='http://photomattmills.com/images/kelsey-schim-birthday-picnic/0003.jpg' />
-  <img src='http://photomattmills.com/images/kelsey-schim-birthday-picnic/0004.jpg' />
-  <img src='http://photomattmills.com/images/kelsey-schim-birthday-picnic/0005.jpg' />
-  <img src='http://photomattmills.com/images/kelsey-schim-birthday-picnic/0006.jpg' />
-  <img src='http://photomattmills.com/images/kelsey-schim-birthday-picnic/0007.jpg' />
-  <img src='http://photomattmills.com/images/kelsey-schim-birthday-picnic/0008.jpg' />
+  <img class="film" src='http://photomattmills.com/images/kelsey-schim-birthday-picnic/0001.jpg' />
+  <img class="film" src='http://photomattmills.com/images/kelsey-schim-birthday-picnic/0002.jpg' />
+  <img class="film" src='http://photomattmills.com/images/kelsey-schim-birthday-picnic/0003.jpg' />
+  <img class="film" src='http://photomattmills.com/images/kelsey-schim-birthday-picnic/0004.jpg' />
+  <img class="film" src='http://photomattmills.com/images/kelsey-schim-birthday-picnic/0005.jpg' />
+  <img class="film" src='http://photomattmills.com/images/kelsey-schim-birthday-picnic/0006.jpg' />
+  <img class="film" src='http://photomattmills.com/images/kelsey-schim-birthday-picnic/0007.jpg' />
+  <img class="film" src='http://photomattmills.com/images/kelsey-schim-birthday-picnic/0008.jpg' />
 </div>
