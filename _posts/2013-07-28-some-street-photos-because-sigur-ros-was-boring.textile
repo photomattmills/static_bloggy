@@ -1,0 +1,12 @@
+---
+layout: post
+title: some street photos because sigur ros was boring
+date: 2013-07-28 11:02:00 -0700
+---
+
+<div class="center">
+  <img src='http://photomattmills.com/images/sigur-ros-was-boring/0001.jpg' />
+  <img src='http://photomattmills.com/images/sigur-ros-was-boring/0002.jpg' />
+  <img src='http://photomattmills.com/images/sigur-ros-was-boring/0003.jpg' />
+  <img src='http://photomattmills.com/images/sigur-ros-was-boring/0004.jpg' />
+</div>
