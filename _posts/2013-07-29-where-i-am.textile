@@ -4,7 +4,7 @@ title: where I am
 date: 2013-07-29 17:08:45 -0700
 ---
 
-for those not paying attention. also, I really like this photo. Just sayin'. 
+for those not paying attention, that is, SF, CA, USA. also, I really like this photo, for no reason. Just sayin'. 
 
 <div class="center">
   <img src='http://photomattmills.com/images/where-i-am/0001.jpg' />
