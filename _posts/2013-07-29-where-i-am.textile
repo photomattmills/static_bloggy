@@ -1,0 +1,11 @@
+---
+layout: post
+title: where I am
+date: 2013-07-29 17:08:45 -0700
+---
+
+for those not paying attention. also, I really like this photo. Just sayin'. 
+
+<div class="center">
+  <img src='http://photomattmills.com/images/where-i-am/0001.jpg' />
+</div>
