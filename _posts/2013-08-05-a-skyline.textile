@@ -1,0 +1,11 @@
+---
+layout: post
+title: A skyline
+date: 2013-08-05 07:59:07 -0700
+---
+
+So, I was going to post a bunch of stuff this weekend, but in the process of setting up new internet, I inadvertently screwed up my firewall rules so that the only thing that wasn't working was NFS, and then I didn't have time to troubleshoot till now. hopefully this week goes better than all that. 
+
+<div class="center">
+  <img src='http://photomattmills.com/images/a-skyline/DSCF0240.jpg' />
+</div>
