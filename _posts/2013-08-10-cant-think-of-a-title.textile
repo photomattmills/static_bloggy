@@ -1,0 +1,16 @@
+---
+layout: post
+title: can't think of a title 
+date: 2013-08-10 12:40:25 -0700
+---
+
+Cool folks in the Dublin office though. This was day 2, I think. Maybe day 3? 
+
+<div class="center">
+  <img src='http://photomattmills.com/images/fucking-ireland-2/0001.jpg' />
+  <img src='http://photomattmills.com/images/fucking-ireland-2/0002.jpg' />
+  <img src='http://photomattmills.com/images/fucking-ireland-2/0003.jpg' />
+  <img src='http://photomattmills.com/images/fucking-ireland-2/0004.jpg' />
+  <img src='http://photomattmills.com/images/fucking-ireland-2/0005.jpg' />
+  <img src='http://photomattmills.com/images/fucking-ireland-2/0006.jpg' />
+</div>
