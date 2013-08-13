@@ -1,0 +1,14 @@
+---
+layout: post
+title: david's dinner
+date: 2013-08-12 23:17:58 -0700
+---
+
+Man, this guy can cook. App, Main, Dessert, all delicious.  
+
+<div class="center">
+  <img src='http://photomattmills.com/images/davids-dinner/0001.jpg' />
+  <img src='http://photomattmills.com/images/davids-dinner/0002.jpg' />
+  <img src='http://photomattmills.com/images/davids-dinner/0003.jpg' />
+  <img src='http://photomattmills.com/images/davids-dinner/0004.jpg' />
+</div>
