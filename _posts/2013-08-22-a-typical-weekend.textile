@@ -1,6 +1,6 @@
 ---
 layout: post
-title: a typical weekend
+title: a weekend
 date: 2013-08-22 22:58:09 -0700
 ---
 
