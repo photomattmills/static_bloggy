@@ -1,0 +1,17 @@
+---
+layout: post
+title: More from the ferry
+date: 2013-08-30 10:15:36 -0700
+---
+
+I may seriously do a _roman à clef_ style photo book from these and some other photos. Does anybody do that?
+
+<div class="center">
+  <img src='http://photomattmills.com/images/more-from-the-ferry/0001.jpg' />
+  <img src='http://photomattmills.com/images/more-from-the-ferry/0002.jpg' />
+  <img src='http://photomattmills.com/images/more-from-the-ferry/0003.jpg' />
+  <img src='http://photomattmills.com/images/more-from-the-ferry/0004.jpg' />
+  <img src='http://photomattmills.com/images/more-from-the-ferry/0005.jpg' />
+  <img src='http://photomattmills.com/images/more-from-the-ferry/0006.jpg' />
+  <img src='http://photomattmills.com/images/more-from-the-ferry/0007.jpg' />
+</div>
