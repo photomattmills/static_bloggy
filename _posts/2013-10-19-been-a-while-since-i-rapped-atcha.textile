@@ -1,12 +1,14 @@
 ---
 layout: post
-title: been a while since I rapped atcha
+title: back on the air
 date: 2013-10-19 15:29:15 -0700
 ---
 
 This is "@photomattmills":http://twitter.com/photomattmills, back on the air. The extened hiatus owes to my lack of a personal computer these past two months. I changed jobs, and the new employer has clauses in the contract about who owns what I produce on company equipment... anyway, I needed my own rig. I've completely forgotten where I was in the flow of editing and producing blog posts, so excuse me if I repeat myself.
 
-The new gig is super sweet. I'm learning a crap ton, which is great, and my co-workers and bosses are all pretty chill. 
+The new gig is super sweet. I'm learning a crap ton, which is great, and my co-workers and bosses are all pretty chill.
+
+To hold you over while I'm getting my shit together, and so you'll know I'm actually alive, here's a shot from our last camping trip. It's the last star field I took, and the only one that's even remotely sharp (although at 100% there's still a little motion).
 
 <div class="center">
   <img src='http://photomattmills.com/images/starfield/0001.jpg' />
