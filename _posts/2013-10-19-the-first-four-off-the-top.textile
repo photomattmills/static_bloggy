@@ -1,0 +1,14 @@
+---
+layout: post
+title: the first four off the top
+date: 2013-10-19 23:27:05 -0700
+---
+
+These are just the first four images off the top of the queue. Only a little editing. I remember *some* of the context, except for the first one. I have no clue why I was walking in Chinatown just past dusk. 
+
+<div class="center">
+  <img src='http://photomattmills.com/images/off-the-queue/0001.jpg' />
+  <img src='http://photomattmills.com/images/off-the-queue/0002.jpg' />
+  <img src='http://photomattmills.com/images/off-the-queue/0003.jpg' />
+  <img src='http://photomattmills.com/images/off-the-queue/0004.jpg' />
+</div>
