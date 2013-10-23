@@ -1,0 +1,11 @@
+---
+layout: post
+title: The better bridge
+date: 2013-10-22 22:32:40 -0700
+---
+
+I mean, look at it. 
+
+<div class="center">
+  <img src='http://photomattmills.com/images/bridge-from-ferry/0001.jpg' />
+</div>
