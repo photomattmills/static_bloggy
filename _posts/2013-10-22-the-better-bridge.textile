@@ -8,4 +8,5 @@ I mean, look at it.
 
 <div class="center">
   <img src='http://photomattmills.com/images/bridge-from-ferry/0001.jpg' />
+  <img src='http://photomattmills.com/images/bridge-from-ferry/0002.jpg' />
 </div>
