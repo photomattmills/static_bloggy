@@ -1,0 +1,19 @@
+---
+layout: post
+title: a 90 minute tour
+date: 2013-10-28 23:11:48 -0700
+---
+
+Somewhere in there, (10 days after the fourth, according to the pictures' metadata), we took the _Jackpot_ out for a cruise around Treasure Island. For the first half, I rode out on the bow, and took photos, and then for the second, I went to the back, because I didn't want to fall in. 
+
+I'm used to the ferry, which is a really big catamaran; two hulls means they're more stable, and a much bigger boat also means the same. This was... a bit different. Not bad, but bouncing up and down 3-4 feet over every wave and getting splashed with seawater a lot. My nikon got a workout that day, and so did my free arm, holding on to the railing.
+
+Also: color balancing over VNC is a fools' errand. I did the best I could, but you may want to refresh in the morning if these are really whacky. I'll take a look on the calibrated machine and fix 'em.
+
+<div class="center">
+  <img src='http://photomattmills.com/images/90-minute-tour/0001.jpg' />
+  <img src='http://photomattmills.com/images/90-minute-tour/0002.jpg' />
+  <img src='http://photomattmills.com/images/90-minute-tour/0003.jpg' />
+  <img src='http://photomattmills.com/images/90-minute-tour/0004.jpg' />
+  <img src='http://photomattmills.com/images/90-minute-tour/0005.jpg' />
+</div>
