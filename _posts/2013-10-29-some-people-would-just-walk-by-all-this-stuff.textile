@@ -1,0 +1,13 @@
+---
+layout: post
+title: some people would miss all this
+date: 2013-10-29 07:32:29 -0700
+---
+
+Not just see it and move on but never notice it in the first place. It seems like random mess, but you can stare at it and sort of see themes emerge, like a world-sized rorschach test. What you see in the world defines who you are.
+
+<div class="center">
+  <img src='http://photomattmills.com/images/ramdon-mess/0001.jpg' />
+  <img src='http://photomattmills.com/images/ramdon-mess/0002.jpg' />
+  <img src='http://photomattmills.com/images/ramdon-mess/0003.jpg' />
+</div>
