@@ -1,0 +1,12 @@
+---
+layout: post
+title: four portraits
+date: 2013-11-04 22:35:41 -0800
+---
+
+These people are all very different, but I saw the visual similarity when I was editing, and decided they could go together. that's all for tonight. 
+
+<div class="center">
+  <img src='http://photomattmills.com/images/four-portraits/0005.jpg' /> <img src='http://photomattmills.com/images/four-portraits/0007.jpg' />
+  <img src='http://photomattmills.com/images/four-portraits/0006.jpg' /> <img src='http://photomattmills.com/images/four-portraits/0008.jpg' />
+</div>
