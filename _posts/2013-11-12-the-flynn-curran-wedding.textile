@@ -1,6 +1,6 @@
 ---
 layout: post
-title: the flynn curran wedding
+title: the flynn-curran wedding
 date: 2013-11-12 23:14:35 -0800
 ---
 
