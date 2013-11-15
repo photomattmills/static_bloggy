@@ -1,0 +1,12 @@
+---
+layout: post
+title: two portraits
+date: 2013-11-14 22:52:37 -0800
+---
+
+After the excitement of the last post, here's two portraits of some friends. Editing pictures at a distance is hard. I can't wait to be home.
+
+<div class="center">
+  <img src='http://photomattmills.com/images/two-portraits/0001.jpg' />
+  <img src='http://photomattmills.com/images/two-portraits/0002.jpg' />
+</div>
