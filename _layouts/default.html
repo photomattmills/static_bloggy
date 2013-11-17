@@ -26,36 +26,26 @@
   <body>
     <div id="page">
       <body>
-	<div id="content">
-		<div id="header">
-			<div id="top">
-				<a href="/" class="title">Not Untitled</a>
-			</div>
-			<div id="bottom">
-				<div id="desc">
-					My name is Matt Mills. These are my photos.
-				</div>
-				<div class="buttons">
-					<a href="mailto:sunrisetimes@gmail.com" class="button">email me </a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://notuntitled.com/rss" class="button">RSS</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://instagram.com/photomattmills">Instagram</a>
-				</div>
-			</div>
-		</div> 
+  <div id="content">
+    <div id="header">
+      <div id="top">
+        <a href="/" class="title">Not Untitled</a>
+      </div>
+      <div id="bottom">
+        <div id="desc">
+          My name is Matt Mills. These are my photos.
+        </div>
+        <div class="buttons">
+          <a href="mailto:sunrisetimes@gmail.com" class="button">email me </a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://notuntitled.com/rss" class="button">RSS</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://instagram.com/photomattmills">Instagram</a>
+        </div>
+      </div>
+    </div> 
       <div id="main">
         <div id="content-wrapper">
           <div id="content">
             
-							{{ content }}
-              <div id="pagination">
-                {% if paginator.previous_page and paginator.previous_page != "1" %}
-                <a href="/page{{ paginator.previous_page }}">&lt;&lt; Previous</a> :: 
-                {% elsif paginator.previous_page %}
-                <a href="/">&lt;&lt; Previous</a> :: 
-                {% endif %}
-                Page {{ paginator.page }} of {{ paginator.total_pages }}
-                {% if paginator.next_page %} 
-                 :: <a href="/page{{ paginator.next_page }}">Next &gt;&gt;</a>
-                {% endif %}
-              </div>
+            {{ content }}
+            
           </div>
         </div>
       </div>
@@ -73,7 +63,7 @@ google_ad_height = 15;
 src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script></div>
 <hr class="hidden" />
-<div id="footer">
+<div id="footer" class="footer">
   <p>Copyright &copy; 2010, Matt Mills. All rights reserved.<br /></p>
 </div>
 </div>

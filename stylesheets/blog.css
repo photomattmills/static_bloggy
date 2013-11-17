@@ -28,7 +28,10 @@ p.caption {
   font-size: 50%;
   fon
 }
-  
+hr {
+  width: 100%;
+  margin-top: 5px;
+}  
   #content {
     width: 970px;
     margin: 0 auto; 
@@ -255,6 +258,7 @@ p.caption {
       text-align: right;
       margin: 8px 0 0 0;
       overflow: hidden;
+      width: 960px;
     }
 
       #content #footer form {
