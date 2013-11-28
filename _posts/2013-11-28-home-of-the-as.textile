@@ -1,6 +1,6 @@
 ---
 layout: post
-title: home of the as
+title: home of the a's
 date: 2013-11-28 11:44:44 -0800
 ---
 
