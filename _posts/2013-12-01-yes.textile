@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yes
+title: "Yes"
 date: 2013-12-01 09:03:04 -0800
 ---
 
