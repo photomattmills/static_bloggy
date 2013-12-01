@@ -1,0 +1,11 @@
+---
+layout: post
+title: Yes
+date: 2013-12-01 09:03:04 -0800
+---
+
+Also, AW YEAAAAAH.
+
+<div class="center">
+  <img src='http://photomattmills.com/images/yes/0001.jpg' />
+</div>
