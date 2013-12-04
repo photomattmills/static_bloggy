@@ -1,0 +1,14 @@
+---
+layout: post
+title: ferry in black and white
+date: 2013-12-04 07:33:19 -0800
+---
+
+There's something slightly twisted about posting a sunrise in black and white. "Here":http://cl.ly/image/1k3G3f1H3f3y is the color version. What do you think?
+
+<div class="center">
+  <img src='http://photomattmills.com/images/ferry-in-black-and-white/0001.jpg' />
+  <img src='http://photomattmills.com/images/ferry-in-black-and-white/0002.jpg' />
+  <img src='http://photomattmills.com/images/ferry-in-black-and-white/0003.jpg' />
+  <img src='http://photomattmills.com/images/ferry-in-black-and-white/0004.jpg' />
+</div>
