@@ -1,0 +1,16 @@
+---
+layout: post
+title: some days
+date: 2013-12-06 07:44:39 -0800
+---
+
+Some days the light is just right, and you can do no wrong with the camera. This was one of those days. I feel like this should have been after sunset, but maybe I was off work early for some reason. Two months is a long time. 
+
+<div class="center">
+  <img src='http://photomattmills.com/images/also-that-day/0001.jpg' />
+  <img src='http://photomattmills.com/images/also-that-day/0002.jpg' />
+  <img src='http://photomattmills.com/images/also-that-day/0003.jpg' />
+  <img src='http://photomattmills.com/images/also-that-day/0004.jpg' />
+  <img src='http://photomattmills.com/images/also-that-day/0005.jpg' />
+  <img src='http://photomattmills.com/images/also-that-day/0006.jpg' />
+</div>
