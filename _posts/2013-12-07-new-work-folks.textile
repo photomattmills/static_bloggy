@@ -1,0 +1,14 @@
+---
+layout: post
+title: new work folks
+date: 2013-12-07 11:13:16 -0800
+---
+
+One of the great things about working at a new place is all the cool new people you meet. The team at SC is no exception. They're a diverse and extremely talented bunch, and I'm glad I get to work with them. Also, a photo of a building in SOMA and a nice street view, because I can.
+
+<div class="center">
+  <img src='http://photomattmills.com/images/new-work-folks/0002.jpg' />
+  <img src='http://photomattmills.com/images/new-work-folks/0001.jpg' />
+  <img src='http://photomattmills.com/images/new-work-folks/0003.jpg' />
+  <img src='http://photomattmills.com/images/new-work-folks/0004.jpg' />
+</div>
