@@ -1,0 +1,17 @@
+---
+layout: post
+title: planes are awesome (part 1)
+date: 2014-01-07 22:57:53 -0800
+---
+
+Dude, but seriously. I'm splitting this into two posts because I got a lot of awesome pictures of clouds and the ground. I've had a long love affiair with flying. It's always pretty amazing, even what most people would call boring flights. I'm not afraid that nothing is holding the plane up, I'm amazed by the evidence of my eyes, that nothing but air and speed are holding the plane up. 
+
+Shift key appears to be working now, which is a nice change.
+
+<div class="center">
+  <img src='http://photomattmills.com/images/planes-are-awesome/0001.jpg' />
+  <img src='http://photomattmills.com/images/planes-are-awesome/0002.jpg' />
+  <img src='http://photomattmills.com/images/planes-are-awesome/0003.jpg' />
+  <img src='http://photomattmills.com/images/planes-are-awesome/0004.jpg' />
+  <img src='http://photomattmills.com/images/planes-are-awesome/0005.jpg' />
+</div>
