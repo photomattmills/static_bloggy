@@ -1,0 +1,16 @@
+---
+layout: post
+title: planes are awesome (part 2)
+date: 2014-01-08 19:51:09 -0800
+---
+
+Until we get spaceflight or teleports or something, this is the best way to go someplace. Even a bad flight is good because you get to go somewhere different, see amazing things out the window.
+
+<div class="center">
+  <img src='http://photomattmills.com/images/planes-are-awesome-2/0001.jpg' />
+  <img src='http://photomattmills.com/images/planes-are-awesome-2/0002.jpg' />
+  <img src='http://photomattmills.com/images/planes-are-awesome-2/0003.jpg' />
+  <img src='http://photomattmills.com/images/planes-are-awesome-2/0004.jpg' />
+  <img src='http://photomattmills.com/images/planes-are-awesome-2/0005.jpg' />
+  <img src='http://photomattmills.com/images/planes-are-awesome-2/0006.jpg' />
+</div>
