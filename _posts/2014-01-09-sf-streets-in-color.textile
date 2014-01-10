@@ -1,0 +1,14 @@
+---
+layout: post
+title: sf streets in color
+date: 2014-01-09 20:47:29 -0800
+---
+
+In two weeks of being in oklahoma, I got three pictures. I shot all of these walking around before and after lunch, shortly after I got back. I am definitely in the right place.
+
+<div class="center">
+  <img src='http://photomattmills.com/images/sf-streets-in-color/0001.jpg' />
+  <img src='http://photomattmills.com/images/sf-streets-in-color/0002.jpg' />
+  <img src='http://photomattmills.com/images/sf-streets-in-color/0003.jpg' />
+  <img src='http://photomattmills.com/images/sf-streets-in-color/0004.jpg' />
+</div>
