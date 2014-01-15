@@ -1,0 +1,15 @@
+---
+layout: post
+title: BART journey
+date: 2014-01-14 23:09:34 -0800
+---
+
+I tend to think of the reach of the BART as the real bounds of the city; it's probably two hours between its two farthest points (Fremont and SFO, maybe?), but my average journey is something like half an hour. There's definitely something to be said for getting under the bay in less than 20 minutes (from stop to stop; my commute is essentially that plus walking 7 minutes to one stop and 3 minutes to another). I mean, by that metric, my 'hood is as close to SOMA as the Mission. Of course, commute time is only one metric.
+
+<div class="center">
+  <img src='http://photomattmills.com/images/bart-odyssey/0001.jpg' />
+  <img src='http://photomattmills.com/images/bart-odyssey/0002.jpg' />
+  <img src='http://photomattmills.com/images/bart-odyssey/0003.jpg' />
+  <img src='http://photomattmills.com/images/bart-odyssey/0004.jpg' />
+  <img src='http://photomattmills.com/images/bart-odyssey/0005.jpg' />
+</div>
