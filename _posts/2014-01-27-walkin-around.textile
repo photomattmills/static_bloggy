@@ -1,0 +1,15 @@
+---
+layout: post
+title: walkin around
+date: 2014-01-27 13:14:55 -0800
+---
+
+it's lunchtime at work, and i remembered to put together an edit this morning. the light in this city is just fantastic, all the time.
+
+<div class="center">
+  <img src='http://photomattmills.com/images/walkin-around-town/0001.jpg' />
+  <img src='http://photomattmills.com/images/walkin-around-town/0002.jpg' />
+  <img src='http://photomattmills.com/images/walkin-around-town/0003.jpg' />
+  <img src='http://photomattmills.com/images/walkin-around-town/0004.jpg' />
+  <img src='http://photomattmills.com/images/walkin-around-town/0005.jpg' />
+</div>
