@@ -8,7 +8,6 @@ it's lunchtime at work, and i remembered to put together an edit this morning. t
 
 <div class="center">
   <img src='http://photomattmills.com/images/walkin-around-town/0005.jpg' />
-<
   <img src='http://photomattmills.com/images/walkin-around-town/0001.jpg' />
   <img src='http://photomattmills.com/images/walkin-around-town/0002.jpg' />
   <img src='http://photomattmills.com/images/walkin-around-town/0003.jpg' />
