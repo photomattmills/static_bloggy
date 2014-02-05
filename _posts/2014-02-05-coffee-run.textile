@@ -1,0 +1,16 @@
+---
+layout: post
+title: coffee run
+date: 2014-02-05 07:15:28 -0800
+---
+
+Last December at work had a visit from a really great teacher, "Sandi Metz":http://www.sandimetz.com/. We spent the week mostly workshopping about object oriented design. I gotta say I learned a ton. It's like there's a whole different world of how to program that I was only dimly aware of. Patterns and antipatterns, refactoring to expose complexity (sorry Jacob, for thinking you were crazy when you showed me this before), and even one "miracle of programming":https://github.com/skmetz/socialchorus-dec-2013/tree/miracle.
+
+Do you ever look at a problem, and you have solutions for it, but none of them are very good, and you suspect that there's something even better just over the horizon? It's the same as that feeling when you can't quite remember the word you're thinking of. Now, imagine someone came along and showed you how to go over that horizon, and, really, it was just a little hill in your way in the first place. That's what Sandy did for us, in a nutshell. Some of the good advice, which I will attempt to summarize: 1) Do the simplest thing possible. 2) Take small steps. 3) Trust your feelings in areas you have experience; that's your preverbal brain telling you something's up.
+
+I really can't say enough nice things about the whole workshop, so here are a couple photos I took on a coffee run.
+
+<div class="center">
+  <img src='http://photomattmills.com/images/coffee-run/0002.jpg' />
+  <img src='http://photomattmills.com/images/coffee-run/0001.jpg' />
+</div>
