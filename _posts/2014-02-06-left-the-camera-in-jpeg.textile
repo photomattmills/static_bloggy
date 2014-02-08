@@ -14,4 +14,4 @@ Which reminds me, I still haven't done any work on a RAW converter to use with D
   <img src='http://photomattmills.com/images/left-the-camera-in-jpeg/0004.jpg' />
   <img src='http://photomattmills.com/images/left-the-camera-in-jpeg/0002.jpg' />
   <img src='http://photomattmills.com/images/left-the-camera-in-jpeg/0003.jpg' />
-  <img src='http://photomattmills.com/images/left-the-camera-in-jpeg/0001.jpg' /></div?
+  <img src='http://photomattmills.com/images/left-the-camera-in-jpeg/0001.jpg' /></div>
