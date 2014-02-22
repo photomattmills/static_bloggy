@@ -4,9 +4,9 @@ title: a history of stragglers
 date: 2014-02-22 06:50:36 +0000
 ---
 
-So, we're in the middle of moving, and the only real computer I have access to is my server, the one that runs the web site you're reading. It's cloudy, which means when I move house, I don't have to move it. By real computer, I mean something that can run, at a minimum, vim and git. My rasberry pi also qualifies, but it's in a box somewhere. Those are the minimum tools I need to do a blog post. Luckily, I had photos already out on the server, or theis would be a very boring post indeed.
+So, we're in the middle of moving, and the only real computer I have access to is my server, the one that runs the web site you're reading. The server is cloudy, which means when I move house, I don't have to move it. By real computer, I mean something that can run, at a minimum, vim and git. Those are the minimum tools I need to do a blog post. My rasberry pi also qualifies, but it's in a box somewhere. Luckily, I had photos already out on the server, or theis would be a very boring post indeed.
 
-These are more from the period between Xmas and New Years. One from sonoma, and the others walking back from brunch at Portal. That's what I meant by stragglers; I keep seeming to have one photo that should have gone with the previous set turn up the next time I ope lightroom. 
+These are more from the period between Xmas and New Years. One from sonoma, and the others walking back from brunch at Portal. That's what I meant by stragglers; I keep seeming to have one photo that should have gone with the previous set turn up the next time I open lightroom. 
 
 It's what I get for blogging tired.
 
