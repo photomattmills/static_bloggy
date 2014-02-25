@@ -1,0 +1,15 @@
+---
+layout: post
+title: new years 2014 (back on the air)
+date: 2014-02-24 22:51:11 -0800
+---
+
+this was a very nice evening with some new friends here in the bay. Really great folks. D&C are the same pair we went to Yosemite with a couple weekends ago. Really fun couple, I'm glad we met them.
+
+So. We're in the new house, and I've got my computer and network up. The RAID came up just fine, and everything else seems as well; wifi works, at least. There's a lot of unpacking, organizing, and laying out of furniture to be done, but home is where "127.0.0.1":http://127.0.0.1 is. 
+
+<div class="center">
+  <img src='http://photomattmills.com/images/new-years-2014/0001.jpg' />
+  <img src='http://photomattmills.com/images/new-years-2014/0003.jpg' />
+  <img src='http://photomattmills.com/images/new-years-2014/0004.jpg' />
+</div>
