@@ -1,0 +1,11 @@
+---
+layout: post
+title: one spot of color
+date: 2014-03-02 10:00:42 -0800
+---
+
+I was _this_ close to putting this in black and white, but that red exit sign makes it.
+
+<div class="center">
+  <img src='http://photomattmills.com/images/one-red-eye/0001.jpg' />
+</div>
