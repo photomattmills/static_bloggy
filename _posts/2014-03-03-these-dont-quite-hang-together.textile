@@ -1,0 +1,14 @@
+---
+layout: post
+title: from the streets, yo 
+date: 2014-03-03 22:06:14 -0800
+---
+
+Despite the fact that I know that it's all been done, that they're all trite contrivances doomed to failure, I still find myself making photos out walking in the street. I suppose that's a sign I'm doing something right? 
+
+<div class="center">
+  <img src='http://photomattmills.com/images/not-sure-if-these-go-together/0001.jpg' />
+  <img src='http://photomattmills.com/images/not-sure-if-these-go-together/0002.jpg' />
+  <img src='http://photomattmills.com/images/not-sure-if-these-go-together/0003.jpg' />
+  <img src='http://photomattmills.com/images/not-sure-if-these-go-together/0004.jpg' />
+</div>
