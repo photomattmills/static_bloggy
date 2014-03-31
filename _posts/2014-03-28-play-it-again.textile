@@ -1,0 +1,15 @@
+---
+layout: post
+title: can't even think of a title
+date: 2014-03-28 01:55:00 -0700
+---
+
+This post has been through a a bunch of iterations about something that has nothing to do with the photos, so I figured I'd just post the photos.   
+
+<div class="center">
+  <img src='http://photomattmills.com/images/same-damn-song/0001.jpg' />
+  <img src='http://photomattmills.com/images/same-damn-song/0002.jpg' />
+  <img src='http://photomattmills.com/images/same-damn-song/0003.jpg' />
+  <img src='http://photomattmills.com/images/same-damn-song/0004.jpg' />
+  <img src='http://photomattmills.com/images/same-damn-song/0005.jpg' />
+</div>
