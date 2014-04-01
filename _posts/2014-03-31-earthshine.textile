@@ -1,0 +1,12 @@
+---
+layout: post
+title: earthshine
+date: 2014-03-31 22:10:29 -0700
+---
+
+The phenomenon when the earth's light is reflected on the crescent or new moon. It's also pretty spectacular. This was the night of Chris's birthday party, down in Santa Cruz. When looking it up to make sure it was one word instead of two, I found "this cool article":http://http://science1.nasa.gov/science-news/science-at-nasa/2002/12apr_earthshine/ from nasa. Cool shit. 
+
+<div class="center">
+  <img src='http://photomattmills.com/images/earthshine/0001.jpg' />
+  <img src='http://photomattmills.com/images/earthshine/0002.jpg' />
+</div>
