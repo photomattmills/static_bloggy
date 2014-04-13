@@ -1,0 +1,11 @@
+---
+layout: post
+title: one photo got left out
+date: 2014-04-13 12:10:46 -0700
+---
+
+I decided that this one, that was from later in the evening, really belonged with the last group of photos... but since I don't like to go back and edit posts, and it's sunday, I'm just gonna be lazy and post one photo, and call it good.
+
+<div class="center">
+  <img src='http://photomattmills.com/images/one-got-left-out/0001.jpg' />
+</div>
