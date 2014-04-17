@@ -1,0 +1,13 @@
+---
+layout: post
+title: not dead yet
+date: 2014-04-16 20:04:35 -0700
+---
+
+I swear I don't mean to be dribbling out these photos one at a time, but the last two days... well, I got the flu (thanks, flu shot, for nothing), and my RAID had to be rebuilt. Luckily for me, adding a disk back to the raid is all automagic, because I've been pretty worthless otherwise.
+
+In any case, I'm alive, and hopefully tomorrow I'll be back at it. 
+
+<div class="center">
+  <img src='http://photomattmills.com/images/proof-of-life/0001.jpg' />
+</div>
