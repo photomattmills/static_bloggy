@@ -1,0 +1,15 @@
+---
+layout: post
+title: in color, in daylight
+date: 2014-04-21 23:07:37 -0700
+---
+
+well, these aren't dramatic nature photos so much. really, these are as close as i get to regular tourist photos.
+
+<div class="center">
+  <img src='http://photomattmills.com/images/in-color-in-daylight/0002.jpg' />
+  <img src='http://photomattmills.com/images/in-color-in-daylight/0001.jpg' />
+  <img src='http://photomattmills.com/images/in-color-in-daylight/0003.jpg' />
+  <img src='http://photomattmills.com/images/in-color-in-daylight/0004.jpg' />
+  <img src='http://photomattmills.com/images/in-color-in-daylight/0005.jpg' />
+</div>
