@@ -1,0 +1,15 @@
+---
+layout: post
+title: scenes around the valley
+date: 2014-04-22 23:16:58 -0700
+---
+
+I know I've said scenery is boring, and maybe that's true. These photos hange together pretty well though, I think. Boring, white skies, as if I were using ortho film. We drove and walked over some interesting ground durning the day that day. 
+
+<div class="center">
+  <img src='http://photomattmills.com/images/scenes-around-the-valley/0001.jpg' />
+  <img src='http://photomattmills.com/images/scenes-around-the-valley/0002.jpg' />
+  <img src='http://photomattmills.com/images/scenes-around-the-valley/0003.jpg' />
+  <img src='http://photomattmills.com/images/scenes-around-the-valley/0004.jpg' />
+  <img src='http://photomattmills.com/images/scenes-around-the-valley/0005.jpg' />
+</div>
