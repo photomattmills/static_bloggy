@@ -1,0 +1,17 @@
+---
+layout: post
+title: an arbitrary set of hipsters in austin
+date: 2014-05-08 12:24:24 -0700
+---
+
+So, Austin. Hipsters. It's a thing. Except for the first photo, I don't know who any of these people are. First one is Sophia getting her Scisortail tattoo. The rest, you know as much about them as I do. My memory of the evening is a little fuzzy, you might say. At least there are pictures. 
+
+<div class="center">
+  <img src='http://photomattmills.com/images/an-arbitrary-slice-of-pictures/0001.jpg' />
+  <img src='http://photomattmills.com/images/an-arbitrary-slice-of-pictures/0002.jpg' />
+  <img src='http://photomattmills.com/images/an-arbitrary-slice-of-pictures/0003.jpg' />
+  <img src='http://photomattmills.com/images/an-arbitrary-slice-of-pictures/0004.jpg' />
+  <img src='http://photomattmills.com/images/an-arbitrary-slice-of-pictures/0005.jpg' />
+  <img src='http://photomattmills.com/images/an-arbitrary-slice-of-pictures/0006.jpg' />
+  <img src='http://photomattmills.com/images/an-arbitrary-slice-of-pictures/0007.jpg' />
+</div>
