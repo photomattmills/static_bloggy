@@ -1,0 +1,30 @@
+---
+layout: post
+title: the scale of the thing
+date: 2014-05-19 23:17:12 -0700
+---
+
+A friend of mine pointed out on twitter that an "arbitrary set," in mathematics, is possibly infinite. I lind of like the idea that the sea of hipsters in austin that night was infinite. I certainly couldn't see an edge. Anyway, before all that, there are some nice pictures of the folks I was with, Quin and Serena and Soph. 
+
+You may have noticed a bit of a gap in the posting here. It's been for very nerdy reasons. I saw a link on the "Adafruit":http://adafruit.com blog about the "Open Source Watch":http://oswatch.org/index.php and knew right away that I wanted to build one. Not just build one, but go one better, make it more extensible, and clean up the rough edges.
+
+There's nothing more personal to me than the watch that I wear; I've been wearing one for the better part 25 years, after pestering my mom to buy me one sometime around age 4. It's not just a status symbol, a beautiful toy; a watch is a hand-hold on reality. It says "This is now," and "It's only been 5 minutes," and "I really did sleep 5 hours on that plane," and "T-minus 5..."
+
+Then there's the maker's credo, that you don't own something until you can hack on it. It's beyond the skills of a lot of people to do surface mount soldering or board layout or the half dozen other skills required to build a watch for the 21st century. None of it is terribly hard by itself, but it's all over, different bits of knowledge to cobble together from different parts of the web. Once it's done and you can program it over bluetooth or plug it into a USB, something wonderful happens. Everyone can hack it.
+
+I don't want a watch for the future, I mean a watch for right now. Somthing that gives you a better grip on reality. It says: "You're here, right now, and this is where you can go."
+
+_The author swears this was going to be a dry feature list and blow-by-blow of the design process, but it's late and he's feeling inspired -- Ed._
+
+<div class="center">
+  <img src='http://photomattmills.com/images/the-scale-of-the-thing/0001.jpg' />
+  <img src='http://photomattmills.com/images/the-scale-of-the-thing/0002.jpg' />
+  <img src='http://photomattmills.com/images/the-scale-of-the-thing/0003.jpg' />
+  <img src='http://photomattmills.com/images/the-scale-of-the-thing/0004.jpg' />
+  <img src='http://photomattmills.com/images/the-scale-of-the-thing/0005.jpg' />
+  <img src='http://photomattmills.com/images/the-scale-of-the-thing/0006.jpg' />
+  <img src='http://photomattmills.com/images/the-scale-of-the-thing/0007.jpg' />
+  <img src='http://photomattmills.com/images/the-scale-of-the-thing/0008.jpg' />
+  <img src='http://photomattmills.com/images/the-scale-of-the-thing/0009.jpg' />
+  <img src='http://photomattmills.com/images/the-scale-of-the-thing/0010.jpg' />
+</div>
