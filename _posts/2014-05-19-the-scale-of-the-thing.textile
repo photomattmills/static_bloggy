@@ -12,7 +12,7 @@ There's nothing more personal to me than the watch that I wear; I've been wearin
 
 Then there's the maker's credo, that you don't own something until you can hack on it. It's beyond the skills of a lot of people to do surface mount soldering or board layout or the half dozen other skills required to build a watch for the 21st century. None of it is terribly hard by itself, but it's all over, different bits of knowledge to cobble together from different parts of the web. Once it's done and you can program it over bluetooth or plug it into a USB, something wonderful happens. Everyone can hack it.
 
-I don't want a watch for the future, I want a watch for right now. Somthing that gives you a better grip on reality. It says: "You're here, right now, and this is where you can go."
+I don't want a watch for the future, I want a watch for right now. Somthing that gives you a better grip on reality. It says: "You're here, right now, and this is wh  ere you can go."
 
 _The author swears this was going to be a dry feature list and blow-by-blow of the design process, but it's late and he's feeling inspired -- Ed._
 

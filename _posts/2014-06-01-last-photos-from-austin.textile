@@ -1,0 +1,17 @@
+---
+layout: post
+title: last photos from austin
+date: 2014-06-01 23:02:21 -0700
+---
+
+So, the watch project continues apace; I've thrown out the initial design, that was based on the "OSWatch":"http://oswatch.org/index.php"; I may still use some of his code, but for now my efforts are in getting a prototype up and running. I blabbed about the project on twitter, and my friend "mkb":"http://twitter.com/mkb" suggested I look at the "RFduino", an arduino-compatible module that has a built-in bluetooth module. It's a pretty sweet little chip, except for the small problem that the bootloader is closed-source. I've decided to let that be a problem for another day, and run with it.
+
+
+
+
+<div class="center">
+  <img src='http://photomattmills.com/images/last-austin/0001.jpg' />
+  <img src='http://photomattmills.com/images/last-austin/0002.jpg' />
+  <img src='http://photomattmills.com/images/last-austin/0003.jpg' />
+  <img src='http://photomattmills.com/images/last-austin/0004.jpg' />
+</div>

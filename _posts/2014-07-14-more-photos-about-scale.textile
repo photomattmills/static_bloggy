@@ -1,0 +1,18 @@
+---
+layout: post
+title: more on scale
+date: 2014-07-14 22:49:11 -0700
+---
+
+I may or may not have talked about this before, but there's a whole lot of my photography that's a love affair with the city. It is a place full of wonders, and ad the same time a place that can crush you for a simple case of bad luck. It is a big place, and getting bigger by the minute. These photos are some of my exploration of that, I suppose. All but the last one, which was good in a completely different way.
+
+You may have noticed I've been neglecting this blog; it's beacuse I've been working on "another project":http://unnaturaldiphthongs.com/. While that isn't done, it is at least in a good state for now. I'm waiting on boards and parts and tools to make version two. I won't bore you with details, except to say you've probably never seen a toaster oven used "this way":http://hackaday.com/2012/03/08/toaster-oven-reflow-soldering-roundup/ before.
+
+<div class="center">
+  <img src='http://photomattmills.com/images/more-on-scale/0001.jpg' />
+  <img src='http://photomattmills.com/images/more-on-scale/0002.jpg' />
+  <img src='http://photomattmills.com/images/more-on-scale/0003.jpg' />
+  <img src='http://photomattmills.com/images/more-on-scale/0005.jpg' />
+  <img src='http://photomattmills.com/images/more-on-scale/0006.jpg' />
+  <img src='http://photomattmills.com/images/more-on-scale/0004.jpg' />
+</div>
