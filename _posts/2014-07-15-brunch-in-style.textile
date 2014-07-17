@@ -1,0 +1,13 @@
+---
+layout: post
+title: brunch in style
+date: 2014-07-15 10:09:05 -0700
+---
+
+Man, Portal. This was many moons ago, and I don't remember the specifics. One of the problems of a two month delay between shooting pictures and getting them put up here is that the little details sort of slip away. Maybe I should take notes or something, keep a daybook. Anyway, what I do remember is that it was a good afternoon, sitting in the sun for hours after a great meal with good people all around. 
+
+<div class="center">
+  <img src='http://photomattmills.com/images/park-by-the-lake/0001.jpg' />
+  <img src='http://photomattmills.com/images/park-by-the-lake/0002.jpg' />
+  <img src='http://photomattmills.com/images/park-by-the-lake/0003.jpg' />
+</div>
