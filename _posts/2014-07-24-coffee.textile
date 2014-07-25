@@ -1,0 +1,11 @@
+---
+layout: post
+title: coffee
+date: 2014-07-24 22:30:51 -0700
+---
+
+Just a nice photo I took two months ago, getting coffee with the old team.
+
+<div class="center">
+  <img src='http://photomattmills.com/images/coffee/0001.jpg' />
+</div>
