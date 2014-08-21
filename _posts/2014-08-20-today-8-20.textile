@@ -1,0 +1,16 @@
+---
+layout: post
+title: yesterday and today
+date: 2014-08-20 23:24:25 -0700
+---
+
+So, I missed a day. I did a lot of programming in the last 48 hours, and I probably could have done a post last night, but I couldn't think of doing anything. I actually couldn't think at all. One of the reasons I got so backlogged was being to rigid about rules. So here's yesterday _and_ today.
+
+<div class="center">
+  <img src='http://photomattmills.com/images/today-8-20/0001.jpg' />
+  <img src='http://photomattmills.com/images/today-8-20/0002.jpg' />
+  <img src='http://photomattmills.com/images/today-8-20/0003.jpg' />
+  <img src='http://photomattmills.com/images/today-8-20/0004.jpg' />
+  <img src='http://photomattmills.com/images/today-8-20/0005.jpg' />
+  <img src='http://photomattmills.com/images/today-8-20/0006.jpg' />
+</div>
