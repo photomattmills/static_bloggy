@@ -1,0 +1,15 @@
+---
+layout: post
+title: today again
+date: 2014-08-21 23:14:34 -0700
+---
+
+It seems like it's today every day. I tend to lose steam towards the end of the week, because work + watch dev + photography is a lot of stuff to do. I thought today was wednesday until late in the afternoon. I'm glad tomorrow is Friday. 
+
+<div class="center">
+  <img src='http://photomattmills.com/images/today-8-21/0001.jpg' />
+  <img src='http://photomattmills.com/images/today-8-21/0002.jpg' />
+  <img src='http://photomattmills.com/images/today-8-21/0003.jpg' />
+  <img src='http://photomattmills.com/images/today-8-21/0004.jpg' />
+  <img src='http://photomattmills.com/images/today-8-21/0005.jpg' />
+</div>
