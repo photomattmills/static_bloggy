@@ -4,7 +4,7 @@ title: today 8 26
 date: 2014-08-26 23:51:01 -0700
 ---
 
-I deleted over 1000 lines of code today. That was the easy part. I fixed things at work, made some other things work better, then I came home. I shopped, I cooked, I cleaned (although not as much as my lovely wife). I worked on the watch on lunch; board rev 2.2 is at the fabricator. I used a trick I learned from a cartoon to make my sauce less salty. Archer, thanks. Now it's time to sleep.   
+I deleted over 1000 lines of code today. That was the easy part.  I worked on the watch on lunch; board rev 2.2 is at the fabricator. I fixed some things at work, made some other things work better, then I came home. I shopped, I cooked, I cleaned (although not as much as my lovely wife). I used a trick I learned from a cartoon to make my sauce less salty. Archer, thanks. Now it's time to sleep.   
 
 <div class="center">
   <img src='http://photomattmills.com/images/today-8-26/0001.jpg' />
