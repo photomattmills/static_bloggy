@@ -1,0 +1,14 @@
+---
+layout: post
+title: another day
+date: 2014-09-06 13:45:03 -0700
+---
+
+These are from what, a week ago? The day I visited twitter, and the day before I lit out for the hills. The view from their deck is pretty nice. I know thee aren't Death valley landscapes. Those are coming, soon enough. 
+
+<div class="center">
+  <img src='http://photomattmills.com/images/another-day/0001.jpg' />
+  <img src='http://photomattmills.com/images/another-day/0002.jpg' />
+  <img src='http://photomattmills.com/images/another-day/0003.jpg' />
+  <img src='http://photomattmills.com/images/another-day/0004.jpg' />
+</div>
