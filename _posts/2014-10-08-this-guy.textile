@@ -1,0 +1,11 @@
+---
+layout: post
+title: this guy
+date: 2014-10-08 23:24:04 -0700
+---
+
+Man, this guy. Pennypacker. Yes, his real last name. This was on his last day at work, before leaving for some start up.
+
+<div class="center">
+  <img src='http://photomattmills.com/images/this-guy-pennypacker/0001.jpg' />
+</div>
