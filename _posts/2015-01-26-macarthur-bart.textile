@@ -1,0 +1,13 @@
+---
+layout: post
+title: macarthur bart
+date: 2015-01-26 20:16:53 -0800
+---
+
+Bunch of grey mornings, scattered through the last month or so. It occurs to me that you could do a really interesting piece centered around this BART station. And by you I mean me, but you could too. Nothing stopping either of us really, except everything else we've got to do with our lives. Going to work, building things, coming home, building other things, sleep, blogging, eating. But I'm there almost every day, for at least 5-10 minutes. The light changes enough day to day that it's never definitely any time; start shooting now, wrap up in 6 months, and you've got a little feature. That is, if you can sneak it in between pizzas and lines of code and sewing and soldering. And by you I mean me.
+
+<div class="center">
+  <img src='http://photomattmills.com/images/macarthur-bart/0001.jpg' />
+  <img src='http://photomattmills.com/images/macarthur-bart/0002.jpg' />
+  <img src='http://photomattmills.com/images/macarthur-bart/0003.jpg' />
+</div>
