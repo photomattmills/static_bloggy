@@ -1,0 +1,16 @@
+---
+layout: post
+title: "#rubykaraoke a while back"
+date: 2015-04-06 22:54:10 -0700
+---
+
+There's a traditon among my people, that is to say rubyists, and further, those in the n+1 friends circle of people who've worked for Engine Yard. It is, in  short, to get shitty and sing ridiculous karaoke. It's a good time. PJ is often an instigator; but this time we also had Zach and Sarah, and Seemant came out for what seemed like the first time in a while. Oh, and of course Yerhot.
+
+Yes, this also means I'm almost three months behind on pictures, in a time when I've been shooting more than ever. So, I'm going to try to blog a bit more now... we'll see how that goes. 
+
+<div class="center">
+  <img src='http://photomattmills.com/images/ruby-karaoke/0001.jpg' />
+  <img src='http://photomattmills.com/images/ruby-karaoke/0002.jpg' />
+  <img src='http://photomattmills.com/images/ruby-karaoke/0003.jpg' />
+  <img src='http://photomattmills.com/images/ruby-karaoke/0004.jpg' />
+</div>
