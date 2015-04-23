@@ -1,0 +1,20 @@
+---
+layout: post
+title: all the time
+date: 2015-04-23 15:09:43 -0700
+---
+
+Every day. Take the camera out, take some pictures. Nobody pays me. There's no gallery. There's just a blog. A blog with typos. and poor grammar. Written whenever I'm exhausted, published when I'm tired of re-writing my thoughts.
+
+Some days I'm tired. Some days I only take one or two pictures. Others, I shoot hundreds. The odds of getting a good picture are only slightyly improved on the days with hundreds. It's more about putting in the work. If I take the time to look carefully, see what's in front of the camera, that matters more than the frames exposed. I look, I get closer to whatever it was I wanted to shoot. Put the files away on a hard drive for a month, two, to fogret the feeling of tripping the shutter. Editing is hard; editing with emotion is a lot harder. When I look, finally, I'm often surprised by how good the photos are; I'm one of those people who procrastinates because I think I'll be dissapointed.
+
+These photos are from days like that. Where I don't have project or a direction, but I'm moving in the direction if my intuition. Putting in the work. Skill not talent, someting you have to do to keep it up. Practice pushing the button, keep doing it until I can't any more.
+
+<div class="center">
+  <img src='http://photomattmills.com/images/street-again/0001.jpg' />
+  <img src='http://photomattmills.com/images/street-again/0002.jpg' />
+  <img src='http://photomattmills.com/images/street-again/0003.jpg' />
+  <img src='http://photomattmills.com/images/street-again/0004.jpg' />
+  <img src='http://photomattmills.com/images/street-again/0005.jpg' />
+  <img src='http://photomattmills.com/images/street-again/0006.jpg' />
+</div>
