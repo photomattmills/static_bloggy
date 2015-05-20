@@ -1,0 +1,15 @@
+---
+layout: post
+title: photos from the mission
+date: 2015-05-20 00:32:39 -0700
+---
+
+The Mission is still my favorite neighborhood in SF. Noe Valley is where the hipsters have gone, but the mission still has some grit and dirt. Some non-white non-tech people. Bars you could get stabbed in. Several of the world's best burrito joints. Yeah.
+
+<div class="center">
+  <img src='http://photomattmills.com/images/photos-from-the-mission/0002.jpg' />
+  <img src='http://photomattmills.com/images/photos-from-the-mission/0003.jpg' />
+  <img src='http://photomattmills.com/images/photos-from-the-mission/0004.jpg' />
+  <img src='http://photomattmills.com/images/photos-from-the-mission/0005.jpg' />
+  <img src='http://photomattmills.com/images/photos-from-the-mission/0006.jpg' />
+</div>
