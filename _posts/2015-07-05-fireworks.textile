@@ -10,11 +10,11 @@ Yes, these are photos from last night. No, this does not mean I'm abandoning fiv
 
 <div class="center">
   <img src='http://photomattmills.com/images/fireworks-jul4-2015/0001.jpg' />
+  <img src='http://photomattmills.com/images/fireworks-jul4-2015/0007.jpg' />
   <img src='http://photomattmills.com/images/fireworks-jul4-2015/0002.jpg' />
   <img src='http://photomattmills.com/images/fireworks-jul4-2015/0003.jpg' />
   <img src='http://photomattmills.com/images/fireworks-jul4-2015/0004.jpg' />
   <img src='http://photomattmills.com/images/fireworks-jul4-2015/0005.jpg' />
   <img src='http://photomattmills.com/images/fireworks-jul4-2015/0006.jpg' />
-  <img src='http://photomattmills.com/images/fireworks-jul4-2015/0007.jpg' />
   <img src='http://photomattmills.com/images/fireworks-jul4-2015/0008.jpg' />
 </div>
