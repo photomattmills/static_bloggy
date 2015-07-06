@@ -6,7 +6,7 @@ date: 2015-07-05 23:36:15 -0600
 
 There's an idea that's been rattling around all day today: The photograph as anecdote. That is to say, they're not really evidence, but just a thing someone saw one time. It dovetails nicely with things I think/believe about truth, objectivity and the possibility that they don't exist in photography. "A photograph is neither true, nor false, just as a sentence is neither red nor blue." A smartass will go print a red/blue text on a color printer, but you get the point: Photographs are not vehicles for truth. They are vehicles for telling stories.
 
-The story here: I got on a plane bound for Santa Fe from SFO. I tried to sleep for the first twenty minutes or so of the flight, then resigned myself to being awake, and started looking out the window. I've always been addicted to these views, snapping pictures whenever I can see anything out the window. This time, it was a bit shocking. Tiny mountain lakes, no snow, and every reservoir has at least a bathtub ring, some that look so wide and have been there so long it's getting hard to distinguish them from the landscape. All visible from 27,000ft.
+The story here: I got on a plane bound for Santa Fe from SFO. I tried to sleep for the first twenty minutes or so of the flight, then resigned myself to being awake, and started looking out the window. I've always been addicted to these views, snapping pictures whenever I can see anything at all. This time, it was a bit shocking. Tiny mountain lakes, no snow, and every reservoir has at least a bathtub ring, some that look so wide and have been there so long it's getting hard to distinguish them from the landscape. All visible from 27,000ft.
 
 We landed, and as you could maybe tell from the previous post, Santa Fe has been good. But these pictures need to get out there. maybe next I'll post my stuff from pride, something upbeat. We'll see.
 
@@ -15,7 +15,6 @@ We landed, and as you could maybe tell from the previous post, Santa Fe has been
   <img src='http://photomattmills.com/images/lakes-from-the-air/0002.jpg' />
   <img src='http://photomattmills.com/images/lakes-from-the-air/0003.jpg' />
   <img src='http://photomattmills.com/images/lakes-from-the-air/0004.jpg' />
-  <img src='http://photomattmills.com/images/lakes-from-the-air/0005.jpg' />
   <img src='http://photomattmills.com/images/lakes-from-the-air/0006.jpg' />
   <img src='http://photomattmills.com/images/lakes-from-the-air/0007.jpg' />
   <img src='http://photomattmills.com/images/lakes-from-the-air/0008.jpg' />
