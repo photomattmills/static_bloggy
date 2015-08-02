@@ -8,7 +8,9 @@ I know I should break this into several posts or whatever, but I really don't ha
 
 I was going to name a bunch of names here, but I'd be sure to miss someone and I don't want to do that. So: If I talked to you, it's safe to assume that I valued that interaction. Everyone there was pretty rad, from the organizers to the other speakers to the attendees.
 
-Midnight tacos were had, and all was well. 
+Things that happened, in no particular order: I got lost (several times). I broke my watch, then broke the programmer, then gave my talk anyway. We walked to a black sand beach over the hill, and went in the water untill the jellyfish came. Swimming in safer waters. Swimming in a pool, most days; afternoon naps. Many, many good ideas were floated, and some of them maybe even ran with (Use rust! build hardware! Change the future, and do what you can to include everyone in it!) Midnight tacos were had. I spoke to a room of ~100 people about how to build their own smart watch. I sat all day at the airport, because I got the cheapest ticket and then couldn't change it. I was chased out of the Guadelajara airport by mosquitos, only to return hours later, and finally get home.
+
+That about covers it. 
 
 <div class="center">
   <img src='http://photomattmills.com/images/magma-week/0001.jpg' />
