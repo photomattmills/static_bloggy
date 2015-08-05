@@ -13,4 +13,5 @@ These are more or less random, just things that happened. No narrative, no metan
   <img src='http://photomattmills.com/images/evenings-and-cats/0004.jpg' />
   <img src='http://photomattmills.com/images/evenings-and-cats/0005.jpg' />
   <img src='http://photomattmills.com/images/evenings-and-cats/0006.jpg' />
+  <img src='http://photomattmills.com/images/evenings-and-cats/0007.jpg' />
 </div>
