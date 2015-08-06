@@ -1,0 +1,19 @@
+---
+layout: post
+title: market street mini-essay
+date: 2015-08-05 18:50:53 -0700
+---
+
+Ah, market street north of third: the real heart of the city, beating with activity. I love this part of town the most; it's the most inhospitible to sanity but also the most alive place in the whole city. You get a sense of the scale of the place here, like no other. This is somewhat experimental, as I edited the photos on my phone. I may hate it and delete it later. 
+
+<div class="center">
+  <img src="https://farm1.staticflickr.com/526/20142658530_4c69dce909_h.jpg"  alt="See shop and women">
+  <img src="https://farm1.staticflickr.com/514/20304470226_44790c896e_h.jpg"  alt="meter maid car">
+  <img src="https://farm1.staticflickr.com/504/20142699508_061d6eb999_h.jpg"  alt="vendor">
+  <img src="https://farm1.staticflickr.com/289/20336769501_fb5c2b4ea2_h.jpg"  alt="guy staring, hotel">
+  <img src="https://farm1.staticflickr.com/440/20304467336_3478ae8cbd_h.jpg"  alt="Arcade on market">
+  <img src="https://farm1.staticflickr.com/563/20144087759_95e38a6fa7_h.jpg"  alt="wheelchair man and dude on phone">
+  <img src="https://farm1.staticflickr.com/336/20337078201_448675ac63_h.jpg"  alt="girls in the market">
+  <img src="https://farm1.staticflickr.com/532/20322584092_9ec59f380b_h.jpg"  alt="tourists on bench">
+  <img src="https://farm1.staticflickr.com/358/20142701228_8e44c378b8_h.jpg"  alt="Ferry Building, looking towards treasure island">
+</div>
