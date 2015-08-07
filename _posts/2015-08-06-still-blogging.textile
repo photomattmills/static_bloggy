@@ -1,0 +1,14 @@
+---
+layout: post
+title: haight and a sign in civic center
+date: 2015-08-06 20:57:13 -0700
+---
+
+Look at that photo of Tom.
+
+<div class="center">
+  <img src='http://photomattmills.com/images/no-rhyme-no-reason/0002.jpg' />
+  <img src='http://photomattmills.com/images/no-rhyme-no-reason/0001.jpg' />
+  <img src='http://photomattmills.com/images/no-rhyme-no-reason/0003.jpg' />
+  <img src='http://photomattmills.com/images/no-rhyme-no-reason/0005.jpg' />
+</div>
