@@ -70,3 +70,7 @@ PLATFORMS
 DEPENDENCIES
   RedCloth
   jekyll
+  jekyll-watch
+
+BUNDLED WITH
+   1.10.6
