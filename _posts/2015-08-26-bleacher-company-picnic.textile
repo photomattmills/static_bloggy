@@ -1,0 +1,15 @@
+---
+layout: post
+title: bleacher company picnic
+date: 2015-08-26 16:33:10 -0700
+---
+
+I know, I've been here a week and a half, and they're having the company picnic already? I'm pretty lucky like that. The week I joind GoPro, for example, they had their IPO and a giant party, as well. Anyway, these are my new coworkers. 
+
+<div class="center">
+  <img src='http://photomattmills.com/images/br-company-picnic/br-picnic-0001.jpg' />
+  <img src='http://photomattmills.com/images/br-company-picnic/br-picnic-0002.jpg' />
+  <img src='http://photomattmills.com/images/br-company-picnic/br-picnic-0003.jpg' />
+  <img src='http://photomattmills.com/images/br-company-picnic/br-picnic-0004.jpg' />
+  <img src='http://photomattmills.com/images/br-company-picnic/br-picnic-0005.jpg' />
+</div>
