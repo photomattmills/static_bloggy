@@ -1,0 +1,15 @@
+---
+layout: post
+title: some scenic local pictures
+date: 2015-08-28 00:14:21 -0700
+---
+
+These were mostly last sunday, except the last one, which was saturday. A lovely evening hanging out on the roof deck with our neighbors from down the hall. The street picture, I just had to put up somewhere. The neighbors, though: one is a painter, and the other makes jewelry, of the fine art variety, in all different sorts of metals. Cool folks, both of them. 
+
+<div class="center">
+  <img src='http://photomattmills.com/images/a-few-senic-leftovers/senics-0001.jpg' />
+  <img src='http://photomattmills.com/images/a-few-senic-leftovers/senics-0002.jpg' />
+  <img src='http://photomattmills.com/images/a-few-senic-leftovers/senics-0003.jpg' />
+  <img src='http://photomattmills.com/images/a-few-senic-leftovers/senics-0004.jpg' />
+  <img src='http://photomattmills.com/images/a-few-senic-leftovers/senics-0005.jpg' />
+</div>
