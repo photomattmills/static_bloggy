@@ -17,6 +17,30 @@ body {
 .center {
         text-align: center;
 }
+
+.rotate_left {
+    transform: rotate(270deg);
+    -ms-transform: rotate(270deg);
+    -moz-transform: rotate(270deg);
+    -webkit-transform: rotate(270deg);
+    -o-transform: rotate(270deg);
+    display: block;
+    margin-top: 169px;
+    margin-bottom: 179px;
+}
+
+.rotate_right {
+    transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    display: block;
+    margin-top: 169px;
+    margin-bottom: 179px;
+}
+
+
 div.info {
   margin-top: 15px;
   border-top: 1px solid;
