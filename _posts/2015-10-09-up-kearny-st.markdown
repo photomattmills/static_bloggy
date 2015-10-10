@@ -4,7 +4,7 @@ title: up kearny st
 date: 2015-10-09 17:53:12 -0700
 ---
 
-I was going to talk about something smart here, but I used up all my smarts this week. I tackled a huge problem at work, and in doing so became the local expert on that thing. I built a [a keyboard](http://atreus.technomancy.us/ "Atreus")keyboard and a [Tv-b-Gone](https://www.adafruit.com/product/73). I started thinking about laptop enclosures and hinges and how to fabricate them from what I have on hand, plus some hardware (springs and bolts!).  
+I was going to talk about something smart here, but I used up all my smarts this week. I tackled a huge problem at work, and in doing so became the local expert on that thing. I built [a keyboard](http://atreus.technomancy.us/ "Atreus") and a [Tv-b-Gone](https://www.adafruit.com/product/73). I started thinking about laptop enclosures and hinges and how to fabricate them from what I have on hand, plus some hardware (springs and bolts!).  
 
 I like this part of the city, and that my office is now in the middle of it is a bonus. I can just take a walk on lunch and take it in. Maybe next post I'll have something to say about all this street/urban landscape I've been shooting.
 
