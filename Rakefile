@@ -13,9 +13,9 @@ title: #{args.post_name}
 date: #{time.strftime('%Y-%m-%d %H:%M:%S %z')}
 ---
 
-<div class="center">
+<span style="display:block;" class="center">
   #{images(args.image_dir)}
-</div>
+</span>
 eom
   file.close
 end
@@ -26,13 +26,13 @@ end
 
 def urls(dir)
   path = "/Users/#{ENV['USER']}/Desktop/"
-  File.exists?(path + dir) ? local_files(dir) : flickr_urls(dir)
+  File.exists?(path + dir) ? local_files(path+dir) : flickr_urls(dir)
 end
 
 def local_files(dir)
-  files = Dir.entries(img_dir).select { |filename|  !File.directory?("#{img_dir}/#{filename}") }
-  files.map { |file| { url: "http://photomattmills.com/images/#{image_dir}/#{file}" } }
-  sh "scp -r /Users/#{ENV['USER']}/Desktop/#{args.image_dir} matt@notuntitled.com:~/public_html/images"
+  files = Dir.entries(dir).select { |filename|  !File.directory?("#{dir}/#{filename}") }
+  sh "scp -r #{dir} matt@notuntitled.com:~/public_html/images"
+  files.map { |file| { url: "http://photomattmills.com/images/#{dir}/#{file}" } }
 end
 
 def flickr_urls(list_name)
