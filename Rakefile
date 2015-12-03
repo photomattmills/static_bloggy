@@ -21,7 +21,7 @@ eom
 end
 
 def images(dir)
-  urls(dir).map{|info| "![#{info[:title]}](#{info[:url]})" }.join("\n")
+  dir ? urls(dir).map{|info| "![#{info[:title]}](#{info[:url]})" }.join("\n") : []
 end
 
 def urls(dir)
