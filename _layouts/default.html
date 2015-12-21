@@ -1,9 +1,20 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+  xmlns:fb="http://ogp.me/ns/fb#">
   <head>
     <title>matt.pictures</title>
     <meta charset="utf-8">
+    <meta property="og:image" content="{{ page.ogimage }}" />
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@photomattmills">
+    <meta name="twitter:creator" content="@photomattmills">
+    <meta name="twitter:title" content="{{ page.title }}">
+    <meta name="twitter:description" content="{{ page.description }}">
+    <meta name="twitter:image" content="{{ page.ogimage }}">
+
+
     <link href="/rss/" rel="alternate" title="RSS" type="application/rss+xml" />
     <link href='http://fonts.googleapis.com/css?family=Arvo:400,400italic' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Permanent+Marker' rel='stylesheet' type='text/css'>
