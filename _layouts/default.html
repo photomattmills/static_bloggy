@@ -11,7 +11,7 @@
     <meta name="twitter:site" content="@photomattmills">
     <meta name="twitter:creator" content="@photomattmills">
     <meta name="twitter:title" content="{{ page.title }}">
-    <meta name="twitter:description" content="{{ page.description }}">
+    <meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}">
     <meta name="twitter:image" content="{{ page.ogimage }}">
 
 
