@@ -12,10 +12,10 @@ The first thing that it did was it allowed me to get closer to people. I don't k
 
 <span style="display:block;" class="center">
 ![Shifting perspectives](https://farm2.staticflickr.com/1665/25093514291_a803e9f779_o.jpg)
-  <span class="caption">Nothing to do with the rest, I just liked this one. </span>
+<span class="caption">Nothing to do with the rest, I just liked this one. </span>
 
-![Shifting perspectives](https://farm2.staticflickr.com/1665/25093514291_a803e9f779_o.jpg)
-  ![Shifting perspectives](https://farm2.staticflickr.com/1589/24819067069_30221701a4_o.jpg)
+<span style="display:block;" class="center">
+![Shifting perspectives](https://farm2.staticflickr.com/1589/24819067069_30221701a4_o.jpg)
   ![Shifting perspectives](https://farm2.staticflickr.com/1591/25186774715_50f397ee7b_o.jpg)
   ![Shifting perspectives](https://farm2.staticflickr.com/1690/24559929203_84331f8e09_o.jpg)
   ![Shifting perspectives](https://farm2.staticflickr.com/1528/24891134250_5a612b14a5_o.jpg)
