@@ -6,7 +6,7 @@ ogimage: "https://farm2.staticflickr.com/1478/24799108863_e64748cd9e_o.jpg"
 description: "somewhere between tresspass and wandering"
 ---
 
-somewhere between tresspass and wandering, just waiting for my ride. i'm super excited for this thing to finally open, may 4th (so the security gaurd told me). i've had a membership the whole time we've lived here, even while it was closed for this expansion. 
+somewhere between tresspass and wandering, just waiting for my ride. i'm super excited for this thing to finally open, may 4th (so the security gaurd told me). i've had a membership the whole time we've lived here, even while it was closed for this expansion. people who think the new building isn't gorgeous: you haven't looked at it.
 
 <span style="display:block;" class="center">
   ![Behind the new SFMOMA](https://farm2.staticflickr.com/1478/24799108863_e64748cd9e_o.jpg)
