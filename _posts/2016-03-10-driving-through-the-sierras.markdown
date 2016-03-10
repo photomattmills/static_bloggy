@@ -12,7 +12,7 @@ Working, over on the [other blog](http://midnight.computer), on documenting some
 
 <span style="display:block;" class="center">
   ![Day 1: Sierras](https://farm2.staticflickr.com/1712/25046511944_f328cdcbe4_o.jpg)
-![Day 1: Sierras](https://farm2.staticflickr.com/1601/25584374661_68e0587b73_o.jpg)
+<img src="https://farm2.staticflickr.com/1601/25584374661_68e0587b73_o.jpg" alt="Day 1: Sierras" class="vertical">
 ![Day 1: Sierras](https://farm2.staticflickr.com/1625/25558311542_9079686ff2_o.jpg)
 ![Day 1: Sierras](https://farm2.staticflickr.com/1495/25584372321_0a9126fed3_o.jpg)
 ![Day 1: Sierras](https://farm2.staticflickr.com/1672/25677052575_a4fd051860_o.jpg)
