@@ -71,6 +71,10 @@ hr {
   border-bottom: 2px solid black;
 }
 
+ul {
+  font-size: 15px;
+}
+
 .portfolio .unit {
    width: 475px;
    margin: 0 5px;
