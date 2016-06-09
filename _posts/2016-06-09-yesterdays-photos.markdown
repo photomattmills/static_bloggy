@@ -1,6 +1,6 @@
 ---
 layout: post
-title: yesterdays photos
+title: yesterday's photos
 date: 2016-06-09 16:17:54 -0700
 ogimage: "http://photomattmills.com/images/yesterdays-photos/steps-0001.jpg"
 description: "Some photos from yesterday"
