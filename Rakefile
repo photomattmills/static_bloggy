@@ -27,7 +27,7 @@ def images(dir)
 end
 
 def urls(dir)
-  File.exists?(path + dir) ? local_files(path+dir) : flickr_urls(dir)
+  @urls ||= File.exists?(path + dir) ? local_files(path+dir) : flickr_urls(dir)
 end
 
 def path
