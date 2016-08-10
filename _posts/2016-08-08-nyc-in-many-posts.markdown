@@ -15,12 +15,12 @@ So, I get to my hotel, starving, and go down to the street to find some pizza. B
 The next day, with nothing to do and free to roam, I decided the first place I should head was the International Center of Photography. Since I had the whole day, and google maps said it was a 45 minute walk, I figured why not walk and shoot. These photos are about half from the night before and half from the walk to ICP.
 
 <span style="display:block;" class="center">
-  ![](http://photomattmills.com/images/ny-post-1/0001.jpg)
-![](http://photomattmills.com/images/ny-post-1/0002.jpg)
-![](http://photomattmills.com/images/ny-post-1/0003.jpg)
-![](http://photomattmills.com/images/ny-post-1/0004.jpg)
-![](http://photomattmills.com/images/ny-post-1/0005.jpg)
-![](http://photomattmills.com/images/ny-post-1/0006.jpg)
-![](http://photomattmills.com/images/ny-post-1/0007.jpg)
-![](http://photomattmills.com/images/ny-post-1/0008.jpg)
+  ![](//photomattmills.com/images/ny-post-1/0001.jpg)
+![](//photomattmills.com/images/ny-post-1/0002.jpg)
+![](//photomattmills.com/images/ny-post-1/0003.jpg)
+![](//photomattmills.com/images/ny-post-1/0004.jpg)
+![](//photomattmills.com/images/ny-post-1/0005.jpg)
+![](//photomattmills.com/images/ny-post-1/0006.jpg)
+![](//photomattmills.com/images/ny-post-1/0007.jpg)
+![](//photomattmills.com/images/ny-post-1/0008.jpg)
 </span>

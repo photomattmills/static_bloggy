@@ -11,8 +11,8 @@ This was a sort of unintentional party. We were supposed to be getting ready to 
 The place is awesome. Nice big kitchen, long living room with north facing windows (north light windows are my fav), and even an office. Sweet little place.  
 
 <span style="display:block;" class="center">
-  ![](http://photomattmills.com/images/annie-adams-new-digs/0001.jpg)
-![](http://photomattmills.com/images/annie-adams-new-digs/0002.jpg)
-![](http://photomattmills.com/images/annie-adams-new-digs/0003.jpg)
-![](http://photomattmills.com/images/annie-adams-new-digs/0004.jpg)
+  ![](//photomattmills.com/images/annie-adams-new-digs/0001.jpg)
+![](//photomattmills.com/images/annie-adams-new-digs/0002.jpg)
+![](//photomattmills.com/images/annie-adams-new-digs/0003.jpg)
+![](//photomattmills.com/images/annie-adams-new-digs/0004.jpg)
 </span>

@@ -13,8 +13,8 @@ Anyway, we get off of I-5 and onto some side road, then the access road, then an
 Which didn't really mean anything, by the time we got to our campsite. We still had hours of daylight left. Easiest time setting up I've had in a while, since most of the time we leave after work, get stuck in traffic, and get to where we're going sometime between 10pm and midnight. We even had time to cook a nice dinner.
 
 <span style="display:block;" class="center">
-  ![](http://photomattmills.com/images/google-detour/0001.jpg)
-![](http://photomattmills.com/images/google-detour/0002.jpg)
-![](http://photomattmills.com/images/google-detour/0003.jpg)
-![](http://photomattmills.com/images/google-detour/0004.jpg)
+  ![](//photomattmills.com/images/google-detour/0001.jpg)
+![](//photomattmills.com/images/google-detour/0002.jpg)
+![](//photomattmills.com/images/google-detour/0003.jpg)
+![](//photomattmills.com/images/google-detour/0004.jpg)
 </span>

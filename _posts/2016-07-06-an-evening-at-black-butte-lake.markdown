@@ -13,11 +13,11 @@ Most of the weekend, I shot with the Mamiya RB67, a mammoth film camera that's o
 The image of the buttes was from the road on the way to the beach at sunset, and the stars were a couple hours after, propping my camera up on the ground with my binoculars. The skies at night were just incredible. I woke up at 4am on the first night, and after my trip to the bushes was done, I'm pretty sure I could see Andromeda without binoculars. Might be worth a winter trip, when the haze will be lower and not as hot during the day.
 
 <span style="display:block;" class="center">
-  ![](http://photomattmills.com/images/black-butte-lake/0001.jpg)
-![](http://photomattmills.com/images/black-butte-lake/0002.jpg)
-![](http://photomattmills.com/images/black-butte-lake/0003.jpg)
-![](http://photomattmills.com/images/black-butte-lake/0004.jpg)
-![](http://photomattmills.com/images/black-butte-lake/0005.jpg)
-![](http://photomattmills.com/images/black-butte-lake/0006.jpg)
-![](http://photomattmills.com/images/black-butte-lake/0007.jpg)
+  ![](//photomattmills.com/images/black-butte-lake/0001.jpg)
+![](//photomattmills.com/images/black-butte-lake/0002.jpg)
+![](//photomattmills.com/images/black-butte-lake/0003.jpg)
+![](//photomattmills.com/images/black-butte-lake/0004.jpg)
+![](//photomattmills.com/images/black-butte-lake/0005.jpg)
+![](//photomattmills.com/images/black-butte-lake/0006.jpg)
+![](//photomattmills.com/images/black-butte-lake/0007.jpg)
 </span>

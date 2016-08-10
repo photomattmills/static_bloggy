@@ -11,13 +11,13 @@ So yesterday I finally figured out what the motor drive was for: it's for gettin
 I may try to do this every day, just pull the card from the camera and upload anything good. The through line, the narrative of these photos is pretty raw, and won't make a ton of sense. I feel like if a larger theme emerges it's going to happen after the blogging, when I'm printing in six months, or looking back on this in five years. (Also god I've had this blog in some form for going on 8 years? I blame [@busblog](http://twitter.com/busblog)).
 
 <span style="display:block;" class="center">
-  ![](http://photomattmills.com/images/yesterdays-photos/steps-0001.jpg)
-![](http://photomattmills.com/images/yesterdays-photos/steps-0002.jpg)
-![](http://photomattmills.com/images/yesterdays-photos/steps-0003.jpg)
-![](http://photomattmills.com/images/yesterdays-photos/steps-0004.jpg)
-![](http://photomattmills.com/images/yesterdays-photos/steps-0005.jpg)
-![](http://photomattmills.com/images/yesterdays-photos/steps-0006.jpg)
-![](http://photomattmills.com/images/yesterdays-photos/steps-0007.jpg)
-![](http://photomattmills.com/images/yesterdays-photos/steps-0008.jpg)
-![](http://photomattmills.com/images/yesterdays-photos/steps-0009.jpg)
+  ![](//photomattmills.com/images/yesterdays-photos/steps-0001.jpg)
+![](//photomattmills.com/images/yesterdays-photos/steps-0002.jpg)
+![](//photomattmills.com/images/yesterdays-photos/steps-0003.jpg)
+![](//photomattmills.com/images/yesterdays-photos/steps-0004.jpg)
+![](//photomattmills.com/images/yesterdays-photos/steps-0005.jpg)
+![](//photomattmills.com/images/yesterdays-photos/steps-0006.jpg)
+![](//photomattmills.com/images/yesterdays-photos/steps-0007.jpg)
+![](//photomattmills.com/images/yesterdays-photos/steps-0008.jpg)
+![](//photomattmills.com/images/yesterdays-photos/steps-0009.jpg)
 </span>

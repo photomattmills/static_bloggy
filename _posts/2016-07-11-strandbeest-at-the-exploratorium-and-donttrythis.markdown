@@ -19,13 +19,13 @@ The highlight of the evening was the unveiling of Savage's machine. "Like everyt
 Sidenote: every time I think the color balance is too hard, I should just put it away and look again after getting some sleep. It's almost always exaustion, and not the color, that's the problem.
 
 <span style="display:block;" class="center">
-  ![](http://photomattmills.com/images/exploratorium-stranbeests/0001.jpg)
-![](http://photomattmills.com/images/exploratorium-stranbeests/0002.jpg)
-![](http://photomattmills.com/images/exploratorium-stranbeests/0003.jpg)
-![](http://photomattmills.com/images/exploratorium-stranbeests/0004.jpg)
-![](http://photomattmills.com/images/exploratorium-stranbeests/0005.jpg)
-![](http://photomattmills.com/images/exploratorium-stranbeests/0006.jpg)
-![](http://photomattmills.com/images/exploratorium-stranbeests/0007.jpg)
-![](http://photomattmills.com/images/exploratorium-stranbeests/0008.jpg)
-![](http://photomattmills.com/images/exploratorium-stranbeests/0009.jpg)
+  ![](//photomattmills.com/images/exploratorium-stranbeests/0001.jpg)
+![](//photomattmills.com/images/exploratorium-stranbeests/0002.jpg)
+![](//photomattmills.com/images/exploratorium-stranbeests/0003.jpg)
+![](//photomattmills.com/images/exploratorium-stranbeests/0004.jpg)
+![](//photomattmills.com/images/exploratorium-stranbeests/0005.jpg)
+![](//photomattmills.com/images/exploratorium-stranbeests/0006.jpg)
+![](//photomattmills.com/images/exploratorium-stranbeests/0007.jpg)
+![](//photomattmills.com/images/exploratorium-stranbeests/0008.jpg)
+![](//photomattmills.com/images/exploratorium-stranbeests/0009.jpg)
 </span>
