@@ -6,7 +6,7 @@ ogimage: "http://photomattmills.com/images/ny-post-1/0002.jpg"
 description: "A night and a morning"
 ---
 
-You know how Ulysses, the doorstop/book/bildugsroman by Joyce, not the poem, you know how it encompasses a single day, but several years worth of adventure were packed into it? I feel like that was my first day in New York City. So much happened, so many pictures.
+You know how Ulysses, the doorstop/book by Joyce, not the poem, you know how it encompasses a single day, but several years worth of adventure were packed into it? I feel like that was my first day in New York City. So much happened, so many pictures.
 
 I got to Manhattan a bit after midnight, a direct flight from SFO. Sidenote: jetblue has the best legroom. Got out of my terminal to see the old TWA terminal under construction/restoration. A little googling revealed it's been under construction a while, and now the plan is to make it a hotel. At least it's still there.
 
