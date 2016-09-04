@@ -11,7 +11,7 @@ task :new_post, [:post_name, :image_dir] do |t, args|
 layout: post
 title: #{args.post_name}
 date: #{time.strftime('%Y-%m-%d %H:%M:%S %z')}
-ogimage: "#{urls(args.image_dir).first if args.image_dir}"
+ogimage: "#{urls(args.image_dir).first[:url] if args.image_dir}"
 description: "Something clever here"
 ---
 
