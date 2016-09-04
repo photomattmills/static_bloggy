@@ -17,7 +17,7 @@ After the conference, I took the ferry to Brooklyn to grab brunch with a friend,
 ![](//photomattmills.com/images/ny-post-4/0002.jpg)
 ![](//photomattmills.com/images/ny-post-4/0003.jpg)
 ![](//photomattmills.com/images/ny-post-4/0004.jpg)
-<img src="//photomattmills.com/images/ny-post-4/0005.jpg" />
+<img class="vertical" src="//photomattmills.com/images/ny-post-4/0005.jpg" />
 ![](//photomattmills.com/images/ny-post-4/0006.jpg)
 ![](//photomattmills.com/images/ny-post-4/0007.jpg)
 ![](//photomattmills.com/images/ny-post-4/0008.jpg)
