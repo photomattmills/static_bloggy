@@ -23,7 +23,11 @@ eom
 end
 
 def images(dir)
-  dir ? urls(dir).map{|info| "![#{info[:title]}](#{info[:url]})" }.join("\n") : []
+  dir ? urls(dir).map{|info| image_markup(info) }.join("\n") : []
+end
+
+def image_markup(info)
+  "![#{info[:title]}](#{info[:url]})\n<span class="caption"></span>"
 end
 
 def urls(dir)

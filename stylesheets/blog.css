@@ -55,8 +55,10 @@ div.hr {
   border-bottom: 1px solid black;
 }
 .caption {
-  font-size: 70%;
-  fon
+  font-size: 80%;
+  font-style: italic;
+  display: block;
+  margin-bottom: 15px;
 }
 hr {
   margin-top: 10px;
