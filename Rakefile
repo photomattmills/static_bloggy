@@ -12,7 +12,7 @@ layout: post
 title: #{args.post_name}
 date: #{time.strftime('%Y-%m-%d %H:%M:%S %z')}
 ogimage: "#{urls(args.image_dir).first[:url] if args.image_dir}"
-description: "Something clever here"
+description: "some pictures for yr eyes"
 ---
 
 <span style="display:block;" class="center">
