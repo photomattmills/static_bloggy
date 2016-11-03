@@ -6,7 +6,7 @@ ogimage: "//photomattmills.com/images/colorado-cynthias-70th-bday/0001.jpg"
 description: "some pictures for yr eyes"
 ---
 
-So, these are a couple months old at this point. It was Cynthia's 70th birthday. We celebrated over a long weekend in Estes Park, Colorado, staying in a house up on the hill. It was really a beautiful place and my inherited family is really good company. Since this is a photo heavy post, I'm gonna let the captions tell the story.
+So, these are a couple months old at this point. It was Cynthia's 70th birthday. We celebrated over a long weekend in Estes Park, Colorado, staying in a house up on the hill. It was really a beautiful place and my inherited family is really good company. Since this is a photo heavy post, I'm gonna let the captions tell the story
 
 <span style="display:block;" class="center">
   ![](https://photomattmills.com/images/colorado-cynthias-70th-bday/0001.jpg)
