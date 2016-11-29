@@ -2,7 +2,7 @@
 layout: post
 title: olivia and roger's pizza oven
 date: 2016-11-27 23:55:36 -0800
-ogimage: "//photomattmills.com/images/rogers-pizza-oven/0001.jpg"
+ogimage: "https://photomattmills.com/images/rogers-pizza-oven/0001.jpg"
 description: "some pictures for yr eyes"
 ---
 
