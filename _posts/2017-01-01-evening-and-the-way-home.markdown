@@ -1,6 +1,6 @@
 ---
 layout: post
-title: evening and thr way home
+title: evening and the way home
 date: 2017-01-01 21:11:31 -0800
 ogimage: "//photomattmills.com/images/mono-lake-4/0001.jpg"
 description: "some pictures for yr eyes"
