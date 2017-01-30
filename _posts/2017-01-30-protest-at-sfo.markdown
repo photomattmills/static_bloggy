@@ -5,7 +5,7 @@ date: 2017-01-30 01:53:27 +0000
 ogimage: "https://farm1.staticflickr.com/450/32447343022_3168c94165_o.jpg"
 description: "Something clever here"
 ---
-Usually I don't do this, but posting from my phone. peaceful so far, and we arrived to find they were letting those held go. lots of chanting, lots of good signs. Cops, as always. anyway, i figured i should share these ASAP abd worry about a long post later. Stay safe out there.
+Usually I don't do this, but posting from my phone. Peaceful so far, and we arrived to find they were letting those currently held go. Lots of chanting, lots of good signs. Cops, as always. anyway, I figured I should share these ASAP and worry about a long post later. Stay safe out there.
 
 <span style="display:block;" class="center">
   ![anti-trump-sfo](https://farm1.staticflickr.com/450/32447343022_3168c94165_o.jpg)
