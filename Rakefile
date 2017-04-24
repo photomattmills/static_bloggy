@@ -47,8 +47,8 @@ end
 def flickr_urls(list_name)
   sets = flickr.photosets.getList(user_id: user_id)  # my user id
   set_id = sets.select{|a| a.title == list_name}.last["id"] rescue nil
-  photos = flickr.photosets.getPhotos(photoset_id: set_id, user_id: user_id, extras:"url_b") if set_id
-  urls = photos["photo"].map { |photo| {url: photo["url_b"], title: photo["title"] } } if photos
+  photos = flickr.photosets.getPhotos(photoset_id: set_id, user_id: user_id, extras:"url_o") if set_id
+  urls = photos["photo"].map { |photo| {url: photo["url_o"], title: photo["title"] } }.reverse if photos
 end
 
 def user_id
