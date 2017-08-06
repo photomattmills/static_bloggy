@@ -6,7 +6,7 @@ ogimage: "//photomattmills.com/images/walking-in-the-city/0001.jpg"
 description: "some pictures for yr eyes"
 ---
 
-I don't really do this kind of work as much anymore, I need to get back to it. It's really rewarding for not a lot of effort; just keeping my camera on me, for the most part. There was an incident which scared me off of it for a while, but that shouldn't stop me, it's not my first confrontation.  
+I don't really do this kind of work as much anymore, I need to get back to it. It's really rewarding for not a lot of effort; just keeping my camera on me, for the most part. There was an incident which scared me off of it for a while, but that shouldn't stop me, it's not my first confrontation. Anyway, next time, some nice candid portraits from a dinner club. 
 
 <span style="display:block;" class="center">
   ![](//photomattmills.com/images/walking-in-the-city/0001.jpg)
