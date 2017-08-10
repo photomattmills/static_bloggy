@@ -14,32 +14,59 @@
     <meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}">
     <meta name="twitter:image" content="{{ page.ogimage }}">
 
+
     <link href="/rss/" rel="alternate" title="RSS" type="application/rss+xml" />
+    <link href='https://fonts.googleapis.com/css?family=Arvo:400,400italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Permanent+Marker' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Average' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=EB+Garamond' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="/stylesheets/blog.css" />
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-18214903-1']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
   </head>
   <body>
-    <div class="header">
-        <h1>
-          <a href="/" class="title">matt.pictures</a>
-        </h1>
-        <div id="bottom">
-          <div class="buttons">
-            <a href="http://matt.pictures/rss" class="button">RSS</a>
-            <a href="http://instagram.com/photomattmills">Instagram</a>
-            <a href="http://matt.pictures/portfolio">Portfolio</a>
-            <a href="https://patreon.com/user?u=738372">Patreon</a>
-            <a href="mailto:sunrisetimes@gmail.com" class="button">email me</a>
+    <div id="page">
+      <div class="content">
+        <div id="header">
+          <div id="top">
+            <a href="/" class="title">matt.pictures</a>
+          </div>
+          <div id="bottom">
+            <div id="desc">
+              by Matt Mills
+            </div>
+            <div class="buttons">
+              <a href="mailto:sunrisetimes@gmail.com" class="button">email me </a>
+              &nbsp;&nbsp;&nbsp;&nbsp;
+              <a href="http://matt.pictures/rss" class="button">RSS</a>
+              &nbsp;&nbsp;&nbsp;&nbsp;
+              <a href="http://instagram.com/photomattmills">Instagram</a>
+              &nbsp;&nbsp;&nbsp;&nbsp;
+              <a href="http://matt.pictures/portfolio">Portfolio</a>
+            </div>
           </div>
         </div>
+        <div id="main">
+          <div id="content-wrapper">
+            {{ content }}
+          </div>
+        </div>
+        <br>
+        <div id="footer" class="footer">
+          <p>Copyright &copy; 2008-2016, Matt Mills. All rights reserved.<br /></p>
+        </div>
       </div>
-    <div id="main">
-      <div id="content-wrapper">
-        {{ content }}
-      </div>
-    </div>
-    <br>
-    <div id="footer" class="footer">
-      <p>Copyright &copy; 2008-2016, Matt Mills. All rights reserved.<br /></p>
     </div>
   </body>
 </html>
