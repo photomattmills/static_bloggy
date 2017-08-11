@@ -120,7 +120,7 @@ div.content {
         }
 
         .content #header #bottom .buttons {
-          width: 49%;
+          width: 100%;
           text-align: right;
           bottom: 24px;
           right: 0;
@@ -129,11 +129,8 @@ div.content {
 
 
         .content #header #bottom .buttons a {
-          color: #FFFFFF;
-          font-weight: bold;
-          text-transform: uppercase;
-          text-decoration: none;
-          background: #D00000;
+          color: #000;
+          margin-right: 10px;
         }
         .content #header #bottom #desc {
           width: 50%;
