@@ -12,6 +12,8 @@ There is a small rush, though, in that the _next_ dinner club being held in this
 
 Anyway, speaking of deadlines and reasons to get photos out sooner, I've decided to try to do some freelance work again; I'm available outside normal working hours for all your photographic needs, once again. I've learned a few things since the last time I tried this, number one being don't quit your day job. Number two being you have to do a lot of work to promote yourself; all the most successful people are promoting themselves effectively. I don't want to annoy the shit out of my meager set of twitter and facebook friends, so I'll be trying to think of creative ways to get my work in front of editors and art directors.
 
+ALSO: I started a [Patreon](https://patreon.com/user?u=738372)! If you're into that sort of thing, toss me a dollar or more. The first ten backers at any level get a print of their choice (anything here on the blog, basically). I'm not quitting my job, but the goal is to support myself with photography, eventually.
+
 <span style="display:block;" class="center">
   ![](https://photomattmills.com/images/dinner-club-may/0001.jpg)
 <span class="caption"></span>
