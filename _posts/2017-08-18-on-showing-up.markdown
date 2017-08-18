@@ -8,7 +8,9 @@ description: "some pictures for yr eyes"
 
 _Note: the following does not apply to those who can't go to protests for whatever reason; disability, PTSD, the need to avoid the authorities. I'm talking to my able-bodied fellow white folks._
 
-So, you've just seen the Tina Fey thing, or you've heard how violent Antifa is, and you've decided to just stay away from the protests when the racists fascist thugs come to your town. Congratulations, you're letting the Nazis win.
+So, you've just seen the Tina Fey #sheetcaking thing, or you've heard how violent Antifa is, and you've decided to just stay away from the protests when the racists fascist thugs come to your town. Congratulations, you're letting the Nazis win.
+
+If, however, you don't want that to be you, and if you think that killing people because of their race, sexuality, gender identity, or anything else is unacceptable, welcome to the ranks of the Anti-Fascists! We're really a fun bunch, once you get to know us.
 
 The truth is all you have to do is show up. This is not a complicated fight involving many ins and outs and long work ahead of time. Do not allow them the space. Do not allow them to make you afraid to go to the park on a saturday. There is hard work ahead of us; there is much healing and compassion that will be needed, but this is the first step. Show the nazis they're not welcome in our town, our state, our country. Show them that calling for violence is violence, and we will not allow it.
 
@@ -16,7 +18,7 @@ If you don't stand up now, when all you have to do is show up, then what will yo
 
 If the contingent of people opposing them is small, then there will be violence. The fash prey on the weak, after all. If our numbers only equal theirs, then we will attacked, just like Sacramento and Charlottesville and Portland and everywhere else. If we have double their size, then we have begun to show them they are not welcome here. If we have 10 times more people, then they will run away, afraid of what they have awakened.
 
-So: do not allow them to occupy that space in your fear centers. Do not think that ignoring violence will make it go away. There are more people in any medium-sized city right now that can show up to oppose them than there are avowed fascists in the whole USA. They can come by the hundreds, and we can take the bus and show up by the thousands.
+So: do not allow them to occupy that space in your fear centers. Do not think that ignoring violence will make it go away. There are more people in any medium-sized city right now that can show up to oppose them than there are avowed fascists in the whole USA. They can come by the hundreds, maybe, and we can take the bus and show up by the thousands. Show up with me.
 
 _The photos this time are a selection from the Women's march last January, and the SFO protests against the muslim ban. This is what happens when enough people show up._
 
