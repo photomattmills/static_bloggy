@@ -2,3 +2,4 @@ _site
 _site/*
 *.swp
 flickr_creds.rb
+.DS_Store
