@@ -3,15 +3,15 @@ layout: post
 title: The wedding
 date: 2011-09-26 13:28:20
 ---
- 
-My friends Heather and Kyle got married, oh a month and a half ago now, and I was lucky enough to attend... really beautiful ceremony, in the alley where they had their first beers together. While some of my longtime friends know that I refuse, under any circumstances, to be a wedding photographer, I didn't take any money for this one, and I would have been there anyway, so in this case I made an exception and took some photos. Besides, they're really amazing people and I wanted to do something nice for them. 
+
+My friends Heather and Kyle got married, oh a month and a half ago now, and I was lucky enough to attend... really beautiful ceremony, in the alley where they had their first beers together. While some of my longtime friends know that I refuse, under any circumstances, to be a wedding photographer, I didn't take any money for this one, and I would have been there anyway, so in this case I made an exception and took some photos. Besides, they're really amazing people and I wanted to do something nice for them.
 
 <div class="center">
-  <img src="http://www.photographermattmills.com/images/kh_wedding/0001.jpg"  alt="Photos" /><br />
-  <img src="http://www.photographermattmills.com/images/kh_wedding/0002.jpg"  alt="Photos" /><br />
-  <img src="http://www.photographermattmills.com/images/kh_wedding/0003.jpg"  alt="Photos" />  <img src="http://www.photographermattmills.com/images/kh_wedding/0004.jpg"  alt="Photos" /><br />
-  <img src="http://www.photographermattmills.com/images/kh_wedding/0005.jpg"  alt="Photos" /><br />
-  <img src="http://www.photographermattmills.com/images/kh_wedding/0006.jpg"  alt="Photos" />  <img src="http://www.photographermattmills.com/images/kh_wedding/0007.jpg"  alt="Photos" /><br />
-  <img src="http://www.photographermattmills.com/images/kh_wedding/0008.jpg"  alt="Photos" /><br>
-  
+  <img src="https://photomattmills.com/images/kh_wedding/0001.jpg"  alt="Photos" /><br />
+  <img src="https://photomattmills.com/images/kh_wedding/0002.jpg"  alt="Photos" /><br />
+  <img src="https://photomattmills.com/images/kh_wedding/0003.jpg"  alt="Photos" />  <img src="https://photomattmills.com/images/kh_wedding/0004.jpg"  alt="Photos" /><br />
+  <img src="https://photomattmills.com/images/kh_wedding/0005.jpg"  alt="Photos" /><br />
+  <img src="https://photomattmills.com/images/kh_wedding/0006.jpg"  alt="Photos" />  <img src="https://photomattmills.com/images/kh_wedding/0007.jpg"  alt="Photos" /><br />
+  <img src="https://photomattmills.com/images/kh_wedding/0008.jpg"  alt="Photos" /><br>
+
 </div>

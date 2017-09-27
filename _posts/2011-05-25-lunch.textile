@@ -7,5 +7,5 @@ date: 2011-05-25 21:04:07
 chick-fil-a is always mobbed with people and always fast. but that's not what this is about. 
 
 <div class="center">
-  <img src="http://www.photographermattmills.com/images/sunandmoon/0029.jpg"  alt="Photos" /><br />
+  <img src="http://photomattmills.com/images/sunandmoon/0029.jpg"  alt="Photos" /><br />
 </div>

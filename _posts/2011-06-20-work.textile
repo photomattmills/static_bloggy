@@ -7,5 +7,5 @@ date: 2011-06-20 06:13:20
 sometimes, at least. 
 
 <div class="center">
-  <img src="http://www.photographermattmills.com/images/lotstotell/0008.jpg"  alt="Photos" /><br />
+  <img src="http://photomattmills.com/images/lotstotell/0008.jpg"  alt="Photos" /><br />
 </div>

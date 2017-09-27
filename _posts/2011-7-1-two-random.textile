@@ -9,6 +9,6 @@ Just two random photos from the queue. Woke up with a sober hangover this mornin
 Anyway, the photos: Traci and Sky after a ride (come to think of it, this was the last time we rode) and then, a sunset storm. 
 
 <div class="center">
-  <img src="http://www.photographermattmills.com/images/lotstotell/0027.jpg"  alt="Photos" /><br />
-  <img src="http://www.photographermattmills.com/images/lotstotell/0028.jpg"  alt="Photos" /><br />
+  <img src="http://photomattmills.com/images/lotstotell/0027.jpg"  alt="Photos" /><br />
+  <img src="http://photomattmills.com/images/lotstotell/0028.jpg"  alt="Photos" /><br />
 </div>

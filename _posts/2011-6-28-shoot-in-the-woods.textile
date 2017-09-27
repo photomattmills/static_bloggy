@@ -7,7 +7,7 @@ date: 2011-06-28 13:11:20
 So "@ryukochan":http://twitter.com/#!/ryukochan, (Anne to her friends) said, I'm bored with my avatar, and so I suggested a photoshoot... next thing you know we're planning a shoot out in the woods. The idea was for her to get lost in the woods and go from civilized and contained to completely unrestrained and feral. I have more photos, but I'm not publishing just everything yet, because I'm thinking I might submit it a few places. Fun shoot, anyway. 
 
 <div class="center">
-  <img src="http://www.photographermattmills.com/images/lotstotell/0024.jpg"  alt="Photos" />  <img src="http://www.photographermattmills.com/images/lotstotell/0025.jpg"  alt="Photos" /><br />
-  <img src="http://www.photographermattmills.com/images/lotstotell/0035.jpg"  alt="Photos" /><br />
-  <img src="http://www.photographermattmills.com/images/lotstotell/0036.jpg"  alt="Photos" /><br />
+  <img src="http://photomattmills.com/images/lotstotell/0024.jpg"  alt="Photos" />  <img src="http://photomattmills.com/images/lotstotell/0025.jpg"  alt="Photos" /><br />
+  <img src="http://photomattmills.com/images/lotstotell/0035.jpg"  alt="Photos" /><br />
+  <img src="http://photomattmills.com/images/lotstotell/0036.jpg"  alt="Photos" /><br />
 </div>

@@ -7,7 +7,7 @@ date: 2011-06-23 12:28:20
 I promise I am using my normal lens more now... but the fish is so fun.
 
 <div class="center">
-  <img src="http://www.photographermattmills.com/images/lotstotell/0014.jpg"  alt="Photos" /><br />
-  <img src="http://www.photographermattmills.com/images/lotstotell/0015.jpg"  alt="Photos" /><br />
-  <img src="http://www.photographermattmills.com/images/lotstotell/0016.jpg"  alt="Photos" /><br />
+  <img src="http://photomattmills.com/images/lotstotell/0014.jpg"  alt="Photos" /><br />
+  <img src="http://photomattmills.com/images/lotstotell/0015.jpg"  alt="Photos" /><br />
+  <img src="http://photomattmills.com/images/lotstotell/0016.jpg"  alt="Photos" /><br />
 </div>

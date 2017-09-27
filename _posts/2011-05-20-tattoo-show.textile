@@ -7,5 +7,5 @@ date: 2011-05-20 00:23:07
 randomly went to the tattoo convention, thinking I was there to see this band I keep missing (and who just changed lead singers for some reason, I dunno), and anyway, I had a pretty interesting conversation with their guitarist, I think, about the demographic represented there. Odd and interesting. Anyway, had one good photo:
 
 <div class="center">
-  <img src="http://www.photographermattmills.com/images/sunandmoon/0010.jpg"  alt="Photos" />
+  <img src="http://photomattmills.com/images/sunandmoon/0010.jpg"  alt="Photos" />
 </div>

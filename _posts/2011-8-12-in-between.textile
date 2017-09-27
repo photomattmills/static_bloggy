@@ -7,7 +7,7 @@ date: 2011-08-12 12:49:20
 So these are just photos from in between things... I'm not a 100% event oriented photographer, I have the camera with me all the time. So sometimes there are random nice things that would otherwise slip through the cracks. These are that. 
 
 <div class="center">
-  <img src="http://www.photographermattmills.com/images/mid_august_2011/0006.jpg"  alt="Photos" /><br />
-  <img src="http://www.photographermattmills.com/images/mid_august_2011/0005.jpg"  alt="Photos" /><br />
-  <img src="http://www.photographermattmills.com/images/mid_august_2011/0007.jpg"  alt="Photos" /><br />
+  <img src="http://photomattmills.com/images/mid_august_2011/0006.jpg"  alt="Photos" /><br />
+  <img src="http://photomattmills.com/images/mid_august_2011/0005.jpg"  alt="Photos" /><br />
+  <img src="http://photomattmills.com/images/mid_august_2011/0007.jpg"  alt="Photos" /><br />
 </div>

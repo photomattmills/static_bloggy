@@ -5,5 +5,5 @@ date: 2011-05-25 21:00:07
 ---
  
 <div class="center">
-  <img src="http://www.photographermattmills.com/images/sunandmoon/0028.jpg"  alt="Photos" /><br />
+  <img src="http://photomattmills.com/images/sunandmoon/0028.jpg"  alt="Photos" /><br />
 </div>

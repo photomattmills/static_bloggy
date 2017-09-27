@@ -7,6 +7,6 @@ date: 2011-05-26 07:17:07
 sometimes, the night is just too good to give up at 2am, and there's no place to go, so you just chill outside the bar till things die down.   
 
 <div class="center">
-  <img src="http://www.photographermattmills.com/images/sunandmoon/0034.jpg"  alt="Photos" /><br />
-  <img src="http://www.photographermattmills.com/images/sunandmoon/0036.jpg"  alt="Photos" /><br />
+  <img src="http://photomattmills.com/images/sunandmoon/0034.jpg"  alt="Photos" /><br />
+  <img src="http://photomattmills.com/images/sunandmoon/0036.jpg"  alt="Photos" /><br />
 </div>
