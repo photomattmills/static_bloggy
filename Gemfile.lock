@@ -6,6 +6,7 @@ GEM
       public_suffix (>= 2.0.2, < 4.0)
     colorator (1.1.0)
     ffi (1.9.18)
+    flickraw (0.9.9)
     forwardable-extended (2.6.0)
     jekyll (3.5.2)
       addressable (~> 2.4)
@@ -32,6 +33,7 @@ GEM
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     public_suffix (3.0.0)
+    rake (12.3.0)
     rb-fsevent (0.10.2)
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
@@ -48,10 +50,12 @@ PLATFORMS
 
 DEPENDENCIES
   RedCloth
+  flickraw
   jekyll
   jekyll-paginate
   jekyll-watch
   kramdown
+  rake
 
 BUNDLED WITH
-   1.15.4
+   1.16.1
