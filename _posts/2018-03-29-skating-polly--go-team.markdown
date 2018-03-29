@@ -11,8 +11,7 @@ went to this show tuesday night, and oh my god skating polly has gotten a lot be
 Go Team was new to me, but just a lot of fun, in a nice unironic way. Good stage presence from all the members, a lot going on. Audience participation (I got to yell my star sign into a mic, and it was being filmed and when I realized that moment will probably be on the internet forever I almost spontaneously combusted on the spot). 
 
 <span style="display:block;" class="center">
-![](https://photomattmills.com/images/skating-polly-go-team-show/0001.jpg)
-<span class="caption"></span>
+<img alt="" class="vertical" src="https://photomattmills.com/images/skating-polly-go-team-show/0001.jpg"><span class="caption"></span>
 ![](https://photomattmills.com/images/skating-polly-go-team-show/0002.jpg)
 <span class="caption"></span>
 ![](https://photomattmills.com/images/skating-polly-go-team-show/0003.jpg)
@@ -23,9 +22,9 @@ Go Team was new to me, but just a lot of fun, in a nice unironic way. Good stage
 <span class="caption"></span>
 ![](https://photomattmills.com/images/skating-polly-go-team-show/0006.jpg)
 <span class="caption"></span>
-![](https://photomattmills.com/images/skating-polly-go-team-show/0007.jpg)
+<img alt="" class="vertical" src="https://photomattmills.com/images/skating-polly-go-team-show/0008.jpg">
 <span class="caption"></span>
-![](https://photomattmills.com/images/skating-polly-go-team-show/0008.jpg)
+<img alt="" class="vertical" src="https://photomattmills.com/images/skating-polly-go-team-show/0007.jpg">
 <span class="caption"></span>
 ![](https://photomattmills.com/images/skating-polly-go-team-show/0009.jpg)
 <span class="caption"></span>
