@@ -8,7 +8,9 @@ description: "some pictures for yr eyes"
 
 went to this show tuesday night, and oh my god skating polly has gotten a lot better since the last time I saw them, way back in 2012. I remember then thinking "These kids really rock, not just for 12 year olds or whatever," and now they've grown and refined their sound a crapton. Wild and energetic and angry and everything I want in a punk band. I should note that this could have been a lot more photos; it was espcially hard to edit these for some reason. 
 
-Go Team was new to me, but just a lot of fun, in a nice unironic way. Good stage presence from all the members, a lot going on. Audience participation (I got to yell my star sign into a mic, and it was being filmed and when I realized that moment will probably be on the internet forever I almost spontaneously combusted on the spot). 
+Go Team was new to me, but just a lot of fun, in a nice unironic way. Good stage presence from all the members, a lot going on. Audience participation (I got to yell my star sign into a mic, and it was being filmed and when I realized that moment will probably be on the internet forever I almost spontaneously combusted on the spot).
+
+These are black and white because color in clubs is bullshit. Most of these just don't work as color; the meter on the little camera I had couldn't keep up or something. Black and white is better anyway. 
 
 <span style="display:block;" class="center">
 <img alt="" class="vertical" src="https://photomattmills.com/images/skating-polly-go-team-show/0001.jpg"><span class="caption"></span>
