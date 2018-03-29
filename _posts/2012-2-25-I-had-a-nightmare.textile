@@ -11,5 +11,5 @@ I haven't blogged for a while, but I'm not giving up. I thought about rebooting 
 
 Photo Unrelated: 
 <div class="center">
-<img src="http://photographermattmills.com/images/mom_walker/mom.jpg" />
+<img src="http://photomattmills.com/images/mom_walker/mom.jpg" />
 </div>
