@@ -2,7 +2,7 @@
 layout: post
 title: old sf street photos
 date: 2018-04-01 23:54:42 -0700
-ogimage: "https://photomattmills.com/images/old-sf-street/0006.jpg"
+ogimage: "https://photomattmills.com/images/old-sf-street/0008.jpg"
 description: "some pictures for yr eyes"
 ---
 
@@ -17,11 +17,11 @@ So offloading the photos from the sony from the show the other night (which I to
 <span class="caption"></span>
 ![](https://photomattmills.com/images/old-sf-street/0004.jpg)
 <span class="caption"></span>
-![](https://photomattmills.com/images/old-sf-street/0005.jpg)
+<img alt="" class="vertical" src="https://photomattmills.com/images/old-sf-street/0005.jpg">
 <span class="caption"></span>
 ![](https://photomattmills.com/images/old-sf-street/0006.jpg)
 <span class="caption"></span>
-![](https://photomattmills.com/images/old-sf-street/0007.jpg)
+<img alt="" class="vertical" src="https://photomattmills.com/images/old-sf-street/0007.jpg">
 <span class="caption"></span>
 ![](https://photomattmills.com/images/old-sf-street/0008.jpg)
 <span class="caption"></span>
