@@ -23,7 +23,7 @@ eom
 end
 
 def images(dir)
-  dir ? urls(dir).map{|info| image_markup(info) }.join("\n") : []
+  dir ? urls(dir).sort{|a,b| a[:url] <=> b[:url] }.map{|info| image_markup(info) }.join("\n") : []
 end
 
 def image_markup(info)
