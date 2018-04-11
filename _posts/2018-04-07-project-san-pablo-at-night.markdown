@@ -39,6 +39,6 @@ Still a work in progress. ...
 <span class="caption"></span>
 ![](https://photomattmills.com/images/san-pablo-night-walk/0014.jpg)
 <span class="caption"></span>
-![](http://photomattmills.com/images/san-pablo-night-walk/0015.jpg)
+![](https://photomattmills.com/images/san-pablo-night-walk/0015.jpg)
 <span class="caption"></span>
 </span>
