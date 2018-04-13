@@ -35,13 +35,13 @@ def urls(dir)
 end
 
 def path
-  path = "/Users/#{ENV['USER']}/Desktop/"
+  "/Users/#{ENV['USER']}/Desktop/"
 end
 
 def local_files(dir)
   files = Dir.entries(dir).select { |filename|  !File.directory?("#{dir}/#{filename}") }
   sh "scp -r #{dir} matt@notuntitled.com:~/public_html/images"
-  files.map { |file| { url: "//photomattmills.com/images/#{dir.gsub(path, "")}/#{file}" } }
+  files.map { |file| { url: "https://photomattmills.com/images/#{dir.gsub(path, "")}/#{file}" } }
 end
 
 def flickr_urls(list_name)
