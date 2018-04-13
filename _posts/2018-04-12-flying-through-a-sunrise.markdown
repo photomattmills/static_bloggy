@@ -2,7 +2,7 @@
 layout: post
 title: flying through a sunrise
 date: 2018-04-12 23:21:27 -0700
-ogimage: "https://photomattmills.com/images/flying-through-a-sunrise/0006.jpg"
+ogimage: "https://photomattmills.com/images/flying-through-a-sunrise/0005.jpg"
 description: "some pictures for yr eyes"
 ---
 
