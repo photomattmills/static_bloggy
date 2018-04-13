@@ -12,7 +12,7 @@ But, in planning for this, I decided I didn't want to spend any more time in hot
 
 It's a morning flight, and I'd chosen my seat so that I could look out to the east, flying south. I always try to do that; imagine what side of the plane will have a better view and sit on that side. Sometimes I don't get the seats I want, [but sometimes that works out in my favor anyway](https://matt.pictures/2017/10/14/photos-out-a-plane-window.html). This time I guessed right, facing away from the rising sun was just the ticket. I couldn't believe the color that came through in the photos. It was just as unbelieveable in person, the whole world bathed in pink light. You wouldn't believe so much of any color could exist, but there we were, right in the middle of it. 
 
-I say we, but I might have been the only person looking; the flight, being ass-early on a monday, was pretty empty. I know at one point I looked up and I was the only person with an open window. 
+I say we, but I might have been the only person looking; the flight, being ass-early on a monday, was pretty empty. I know at one point I looked up and I was the only person with an open window. I've heard there's a direct flight, 16 hours, from Charles de Gaulle to SFO, that is this, the whole way (assuming you catch it at the right time of year, I suppose). I'd love to do that some day.
 
 <span style="display:block;" class="center">
   ![](https://photomattmills.com/images/flying-through-a-sunrise/0001.jpg)
