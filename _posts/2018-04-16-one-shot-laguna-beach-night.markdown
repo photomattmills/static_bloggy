@@ -1,6 +1,6 @@
 ---
 layout: post
-title: one shot: laguna beach night
+title: 'one shot: laguna beach at night'
 date: 2018-04-16 11:41:45 -0700
 ogimage: "https://photomattmills.com/images/laguna-beach-night/0001.jpg"
 description: "some pictures for yr eyes"
