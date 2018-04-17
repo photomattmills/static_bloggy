@@ -1,6 +1,6 @@
 ---
 layout: post
-title: another post that ends on a sunset
+title: another post with a sunset
 date: 2018-04-17 00:06:27 -0700
 ogimage: "https://photomattmills.com/images/ends-on-a-sunset/0005.jpg"
 description: "some pictures for yr eyes"
