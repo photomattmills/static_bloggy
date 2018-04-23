@@ -159,7 +159,7 @@ div.content {
       line-height: 1.5;
     }
 
-    .content img { cursor: pointer; max-width: 950px; max-height: 700px; display: inline; }
+    .content img { cursor: pointer; max-width: 950px; max-height: 900px; display: inline; }
 
     .content img.vertical { max-height: 900px;}
 
