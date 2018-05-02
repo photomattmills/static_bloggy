@@ -1,0 +1,20 @@
+---
+layout: post
+title: bookends
+date: 2018-05-01 23:21:20 -0700
+ogimage: "https://photomattmills.com/images/bookends-of-odd-salon/0004.jpg"
+description: "some pictures for yr eyes"
+---
+
+This would have been a post of a bunch of photos from the second to last time I went to Odd Salon, but I decided I didn't like any of them, so here are the first and last pictures I did that night. I think they're OK. 
+
+The whole experiment of posting every day seems to have gone well, and I'm going to try to keep it up. there's something really nice about just putting the work out there in the world, even if I have no idea who's looking at it (I took off google analytics a day or so after re-enabling it, because who wants to give them _more_ info). Anyway. I think it's helping. 
+
+Here's today. 
+
+<span style="display:block;" class="center">
+  ![](https://photomattmills.com/images/bookends-of-odd-salon/0003.jpg)
+<span class="caption"></span>
+![](https://photomattmills.com/images/bookends-of-odd-salon/0004.jpg)
+<span class="caption"></span>
+</span>
