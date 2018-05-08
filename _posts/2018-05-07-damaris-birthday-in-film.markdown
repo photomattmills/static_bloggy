@@ -10,7 +10,7 @@ So these are the film photos from the same time we were there as [this post](htt
 
 I mean, don't get me wrong, there's a lot to be said for a fast camera with the option to be color or black and white at will. but there's also something to be said for the tonality I'm getting from these negatives, which is nothing like what I get from any of my digital cameras, even after pretty extensive processing. 
 
-So yeah, I bought another film camera, to complement the ones I already have. Shot my first roll of film this afternoon with a super old lens that may or may not be worth anything. I theoretically have another lens inbound, that should be a little better suited to this camera. It's everything my other film cameras aren't; small and light and really fun to shoot with. The first roll is drying now, I'll probably scan some tomorrow. 
+So yeah, I bought another film camera, to complement the ones I already have. Shot my first roll of film this afternoon with a super old lens that may or may not be worth anything. I have another lens bought, that hasn't shipped, that should be a little better suited to this camera (I bought the camera and lens the same day last week; the camera arrived from japan faster than the lens from new jersey). It's everything my other film cameras aren't; small and light and really fun to shoot with. The first roll is drying now, I'll probably scan some tomorrow. 
 
 <span style="display:block;" class="center">
   ![](https://photomattmills.com/images/film-photos-damaris-bday-2018/0003.jpg)
