@@ -2,7 +2,7 @@
 layout: post
 title: damaris' birthday in film
 date: 2018-05-07 12:11:09 -0700
-ogimage: "https://photomattmills.com/images/film-photos-damaris-bday-2018/0006.jpg"
+ogimage: "https://photomattmills.com/images/film-photos-damaris-bday-2018/0003.jpg"
 description: "some pictures for yr eyes"
 ---
 
