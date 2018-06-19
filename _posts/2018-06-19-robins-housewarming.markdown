@@ -12,6 +12,9 @@ This was sometime last month, I think? Robin is this amazing creative genius and
 
 The collection of guests was interesting and eclectic. Food people, journalists, doctors (PhD and MD if memory serves) small children, and more than one errant photographer. There was a spread that was as good as any I've seen at a backyard barbecue. The kids (and more than some of the adults) were super into picking avocados off the tree in the yard.
 
+One last thing: you may have noticed that these don't have black borders but still look like color film photos... that's because I had them scanned at the lab, and the lab can't get the extra little bit of margin to get the borders with the full roll scanner. I'm fine with it, actually, because if I decided to make prints I'll have to scan anyway, and I can include the border then. And it's hours and hours of work that I don't have to do. 
+
+
 <span style="display:block;" class="center">
   ![](https://photomattmills.com/images/robins-housewarming-party/0001.jpg)
 <span class="caption">Robin and an a child with the avocado picker</span>
