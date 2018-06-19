@@ -31,8 +31,6 @@ I couldn't tell you how many people were there. More than 500 and less than 5000
 <span class="caption"></span>
 ![Ice protest 2018](https://farm2.staticflickr.com/1826/41097799960_d19ce274f4_o.jpg)
 <span class="caption"></span>
-![Ice protest 2018](https://farm2.staticflickr.com/1826/42007157335_c13f6dee96_o.jpg)
-<span class="caption"></span>
 ![Ice protest 2018](https://farm2.staticflickr.com/1826/42907865991_9ba16d8407_o.jpg)
 <span class="caption"></span>
 ![Ice protest 2018](https://farm2.staticflickr.com/1829/41097799990_c07d4cd8a7_o.jpg)
