@@ -6,7 +6,7 @@ ogimage: "https://photomattmills.com/images/sunday-special-guest-annie/0006.jpg"
 description: "some pictures for yr eyes"
 ---
 
-This was maybe a month ago? again, I could look at my calendar and try to figure it out, but meh. This is  a real different post than the last one, but I think it's just as valuable. It's important to remember what we have, and what we're fighting for. Truth and beauty in the people around us. Anyway.
+This was maybe a month ago? again, I could look at my calendar and try to figure it out, but meh. This is a real different post than the last one, but I think it's just as valuable. It's important to remember what we have, and what we're fighting for. Truth and beauty in the people around us. Anyway.
 
 Annie was in town, and the ladies did a bunch of stuff (trip to Sonoma, wine tasting, some kind of pedicures? maybe?), but sunday the whole group of us hung out. Brunch at portal, bottomless mimosas, followed by a brief nap and refresher, trip to the corner store for supplies, and then over to Roger and Olivia's for multiple kinds of grilled cheeses, literally grilled on a charcoal grill. They were amazing and I was far too busy eating them to take pictures of them.
 
