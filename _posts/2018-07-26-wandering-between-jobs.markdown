@@ -23,7 +23,7 @@ I know this is a little disconnected and rambly. I'm all over the place right no
 <span class="caption"></span>
 ![](https://photomattmills.com/images/peregrinations-between-jobs/0004.jpg)
 <span class="caption"></span>
-![](http://photomattmills.com/images/peregrinations-between-jobs/0005.jpg)
+![](https://photomattmills.com/images/peregrinations-between-jobs/0005.jpg)
 <span class="caption"></span>
 ![](https://photomattmills.com/images/peregrinations-between-jobs/0006.jpg)
 <span class="caption"></span>
