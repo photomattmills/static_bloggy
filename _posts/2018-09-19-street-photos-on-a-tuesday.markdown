@@ -2,7 +2,7 @@
 layout: post
 title: street photos on a tuesday
 date: 2018-09-19 23:18:00 -0700
-ogimage: "https://photomattmills.com/images/street-photos-on-a-tuesday/0006.jpg"
+ogimage: "https://photomattmills.com/images/street-photos-on-a-tuesday/0005.jpg"
 description: "some pictures for yr eyes"
 ---
 
