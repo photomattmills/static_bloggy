@@ -2,7 +2,7 @@
 layout: post
 title: odd salon explore
 date: 2018-09-23 23:12:32 -0700
-ogimage: "https://photomattmills.com/images/odd-salon-explore/0004.jpg"
+ogimage: "https://photomattmills.com/images/odd-salon-explore/0003.jpg"
 description: "some pictures for yr eyes"
 ---
 
@@ -12,7 +12,7 @@ You'll notice I'm slipping towards three weeks of backlog (almost back up to the
 
 I had some thoughts about this slump I'm having today, too. This is a thing that always happens with a new camera: get the thing, be very excited about it, and go out and make a bunch of good pictures with it over the first couple weeks. I even had a honeymoon period like that with the GoPro (an otherwise not very good camera for the sorts of photos I take), where I really just played with the thing and had fun. Then, about a month in, a slump hits. I can't maintain that energy forever, and I find myself falling into old patterns of working, which means I don't get as much energy from shooting, and feel kinda meh about the whole thing.
 
-So, the insight I had today was that I need to figure out how to break those patterns of working, see things from new perspectives, etc. I might break out [_The Photographers' Playbook_](https://aperture.org/shop/the-photographer-s-playbook-books/) and have some fun. I also need to start getting up early to shoot more San Pablo. Right now it's not in a place where it's a book, except maybe one of those boring art books that go with exhibitions and don't sell out their first printings. It might be good as individual large prints, and I need to buy some paper to start playing with that too... so! There's work to be done.
+So, the insight I had today was that I need to figure out how to break those patterns of working, see things from new perspectives, etc. I might break out [_The Photographer's Playbook_](https://aperture.org/shop/the-photographer-s-playbook-books/) and have some fun. I also need to start getting up early to shoot more San Pablo. Right now it's not in a place where it's a book, except maybe one of those boring art books that go with exhibitions and don't sell out their first printings. It might be good as individual large prints, and I need to buy some paper to start playing with that too... so! There's work to be done.
 
 <span style="display:block;" class="center">
   ![](https://photomattmills.com/images/odd-salon-explore/0001.jpg)
