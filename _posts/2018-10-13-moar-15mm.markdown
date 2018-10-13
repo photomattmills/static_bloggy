@@ -1,0 +1,20 @@
+---
+layout: post
+title: moar 15mm
+date: 2018-10-13 03:04:36 -0700
+ogimage: "https://photomattmills.com/images/moar-15mm/0004.jpg"
+description: "some pictures for yr eyes"
+---
+
+I realize two of these are basically the same picture (the middle two), and I really should just pick one, but it's 3am and I'm trying to get to bed. The last one demanded, loudly, that it be left in color. Still playing with the film presets, which I always swore were silly, but they're really not bad when you're trying to crank something out. It's hard for it to not still look like one of my pictures anyway.   
+
+<span style="display:block;" class="center">
+  ![](https://photomattmills.com/images/moar-15mm/0001.jpg)
+<span class="caption"></span>
+![](https://photomattmills.com/images/moar-15mm/0002.jpg)
+<span class="caption"></span>
+![](https://photomattmills.com/images/moar-15mm/0003.jpg)
+<span class="caption"></span>
+![](https://photomattmills.com/images/moar-15mm/0004.jpg)
+<span class="caption"></span>
+</span>
