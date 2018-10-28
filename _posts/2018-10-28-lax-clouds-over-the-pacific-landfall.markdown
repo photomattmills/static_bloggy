@@ -8,9 +8,9 @@ description: "some pictures for yr eyes"
 
 I don't know why people complain about LAX; we may have been in a newer terminal, but it seemed pretty nice relative to some airports I've been in (looking at you, Guadalajara). Even versus SFO the only thing I can complain about is the wait time in the food court was pretty long.
 
-so, because of reasons that I can begin to understand, we had to go to our gate in LA to get our tickets for the LAX->NRT leg. Once we got there, the printer for one of the gate agents broke, and they were dealing with that. Even with that considerable pressure, they were doing a great job, and got us all set in plenty of time. I must say the Singapore Airlines flight we were on was fantastic. We had an exit row, but also the cabin crew were friendly and helpful in a way that seems pretty rare these days.
+so, because of reasons that I can't begin to understand, we had to go to our gate in LA to get our tickets for the LAX->NRT leg. Once we got there, the printer for one of the gate agents broke, and they were dealing with that. Even with that considerable pressure, they were doing a great job, and got us all set in plenty of time. I must say the Singapore Airlines flight we were on was fantastic. We had an exit row, but also the cabin crew were friendly and helpful in a way that seems pretty rare these days.
 
-The trip so far has been a lot of time in transit. We're currently on a train to Kyoto, traveling at speeds in excess of R17 (and if you get that reference, I'll bet you know where your towel is, too). Next post, as soon as I get the photos edited, is a bunch of walking around Tokyo. 
+The trip so far has been a lot of time in transit. We're currently on a train to Kyoto, traveling at speeds in excess of R17 (and if you get that reference, I'll bet you know where your towel is, too). Next post, as soon as I get the photos edited, is a bunch of walking around Tokyo.
 
 
 <span style="display:block;" class="center">
