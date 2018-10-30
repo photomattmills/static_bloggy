@@ -6,6 +6,8 @@ ogimage: "https://photomattmills.com/images/kyoto-arrival-1st-evening/0012.jpg"
 description: "some pictures for yr eyes"
 ---
 
+the first day in kyoto was really a half day; we arrived about 3 in the afternoon, and took a taxi from the station to our hotel. did a decent bit of walking, found a little beer bar and had some snacks. lots more walking, to a Ramen place where we ordered from a machine and ate like kings. 
+	
 <span style="display:block;" class="center">
   ![](https://photomattmills.com/images/kyoto-arrival-1st-evening/0001.jpg)
 <span class="caption"></span>
