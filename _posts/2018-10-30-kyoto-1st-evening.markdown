@@ -6,8 +6,12 @@ ogimage: "https://photomattmills.com/images/kyoto-arrival-1st-evening/0012.jpg"
 description: "some pictures for yr eyes"
 ---
 
-the first day in kyoto was really a half day; we arrived about 3 in the afternoon, and took a taxi from the station to our hotel. did a decent bit of walking, found a little beer bar and had some snacks. lots more walking, to a Ramen place where we ordered from a machine and ate like kings. 
-	
+the first day in kyoto was really a half day; we arrived about 3 in the afternoon, and took a taxi from the station to our hotel. did a decent bit of walking, found a little beer bar and had some snacks. lots more walking, to a Ramen place where we ordered from a machine and ate like kings.
+
+Then, we walked around the central shopping district, and I decided wherever the "The Body Shop" was, I needed to not be, so we made a couple sharp turns and ended up in a little bar off the river where they made fun absinthe drinks and there was a couch on the ceiling because when they went to move it out they discovered the door had been redone and was too small to fit the couch out any more.
+
+That's pretty much it for Day 2. Day 3 is also in the can, and day 4 isn't even imported yet, but I've got another long train ride today, back to Tokyo.
+
 <span style="display:block;" class="center">
   ![](https://photomattmills.com/images/kyoto-arrival-1st-evening/0001.jpg)
 <span class="caption"></span>
