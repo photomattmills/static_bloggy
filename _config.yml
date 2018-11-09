@@ -3,10 +3,11 @@ email: matt@notuntitled.com
 description: > # this means to ignore newlines until "baseurl:"
   These are my photos and stories
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://matt.pictures" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
+parse_block_html: false
 plugins:
   - jekyll-paginate
 paginate: 4

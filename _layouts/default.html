@@ -21,6 +21,62 @@
     <link href='https://fonts.googleapis.com/css?family=Average' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=EB+Garamond' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="/stylesheets/blog.css" />
+
+    <script>
+      slideshow = {
+        base_url: "https://photomattmills.com/images/",
+
+        register: function (key){
+          if (!this[key]) {
+            img = document.getElementById(key)
+            data = JSON.parse(img.getAttribute('gallery-data'))
+            console.log("hello hello")
+            this[key] = {"index": 0, "images": data.images}
+          }
+        },
+
+        next: function(key){
+          index = this[key]["index"] += 1
+          images = this[key]["images"]
+
+          if(slideshow[key]["index"]> images.length-1){
+            index = slideshow[key]["index"] = 0
+          }
+
+          // var image=images[index]
+          // var nextimg=images[index+1]
+          this.switch(key,
+            this.image_src(key,images[index]),
+            this.image_src(key,images[index+1])
+          )
+          // document.getElementById(key).src=this.base_url+key+"/"+image
+          // document.getElementById("next-"+key).src = this.baseurl + nextimg
+        },
+
+        previous: function (key){
+          index = this[key]["index"]-=1
+          images = this[key]["images"]
+
+          if(index<0){
+            index = slideshow[key]["index"] = images.length-1
+          }
+
+          this.switch(key,
+            this.image_src(key,images[index]),
+            this.image_src(key,images[index-1])
+          )
+        },
+
+        switch: function(key, current, next) {
+          document.getElementById(key).src = current
+          document.getElementById(key+"-next").src  = next
+        },
+
+        image_src: function(key, filename) {
+          return this.base_url+key+"/"+filename
+        }
+      }
+    </script>
   </head>
   <body>
     <div id="page">
@@ -53,7 +109,7 @@
         </div>
       </div>
     </div>
-    
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
 
   </body>

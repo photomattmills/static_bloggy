@@ -8,3 +8,4 @@ gem "kramdown"
 gem "RedCloth"
 gem "rake"
 gem "flickraw"
+gem 'pry'
