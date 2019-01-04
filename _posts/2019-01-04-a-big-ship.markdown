@@ -1,0 +1,16 @@
+---
+layout: post
+title: a big ship
+date: 2019-01-04 01:02:21 -0800
+ogimage: "https://photomattmills.com/images/big-ship/0001.jpg"
+description: "some pictures for yr eyes"
+---
+
+Super literal, I know, but now they're off the queue and on the blog.
+
+<span style="display:block;" class="center">
+  ![](https://photomattmills.com/images/big-ship/0001.jpg)
+<span class="caption"></span>
+![](https://photomattmills.com/images/big-ship/0002.jpg)
+<span class="caption"></span>
+</span>
