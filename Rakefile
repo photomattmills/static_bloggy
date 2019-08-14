@@ -35,12 +35,12 @@ def urls(dir)
 end
 
 def path
-  "/Users/#{ENV['USER']}/Desktop/"
+  Dir.exists?("/Users/#{ENV['USER']}/Desktop/") ? "/Users/#{ENV['USER']}/Desktop/" : "/home/matt/public_html/images/"
 end
 
 def local_files(dir)
   files = Dir.entries(dir).select { |filename|  !File.directory?("#{dir}/#{filename}") }
-  sh "scp -r #{dir} matt@notuntitled.com:~/public_html/images"
+  sh "scp -r #{dir} matt@notuntitled.com:~/public_html/images" unless dir.match?(/home/)
   files.map { |file| { url: "https://photomattmills.com/images/#{dir.gsub(path, "")}/#{file}" } }
 end
 
