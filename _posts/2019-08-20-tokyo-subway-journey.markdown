@@ -6,9 +6,9 @@ ogimage: "https://photomattmills.com/images/tokyo-subway-journey/L1008790.jpg"
 description: "some pictures for yr eyes"
 ---
 
-File this entry in the same place as the last one; utterly mundane wonders, or maybe astounding normalcy. I'm sure in the right circles, the Tokyo subway/train system is justly famous and known. The experience of it, even when a bit exhausted and yeah, a little tipsy, is quite impressive. I think for some reason we changed trains twice on this trip? seems like it should have been a straight shot, but it's possible we wandered a bit underground and gotten on the wrong place. Worth it. 
+File this entry in the same place as the last one; utterly mundane wonders, or maybe astounding normalcy. I'm sure in the right circles, the Tokyo subway/train system is justly famous and known. The experience of it, even when a bit exhausted and yeah, a little tipsy, is quite impressive. I think for some reason we changed trains twice on this trip? seems like it should have been a straight shot, but it's possible we wandered a bit underground and gotten on the wrong place. Or perhaps I'm looking at the sequence wrong.  
 
-The ankle is healing. It's in a cast now. Hopefully my inability to sleep last night is just needing to be used to the cast, and not, like, an indicator of the discomfort I'll be in the next two weeks. 
+The ankle is healing. It's in a cast now. Hopefully my inability to sleep last night is just needing to be used to the cast, and not, like, an indicator of the discomfort I'll be in the next two weeks. We'll see. 
 
 <span style="display:block;" class="center">
   ![](https://photomattmills.com/images/tokyo-subway-journey/L1008778.jpg)
