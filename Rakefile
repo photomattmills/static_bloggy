@@ -27,7 +27,7 @@ def images(dir)
 end
 
 def image_markup(info)
-  "![#{info[:title]}](#{info[:url]})\n<span class=\"caption\"></span>"
+  "<img src='#{info[:url]}' alt=#{info[:title]}>\n<span class=\"caption\"></span>"
 end
 
 def urls(dir)
