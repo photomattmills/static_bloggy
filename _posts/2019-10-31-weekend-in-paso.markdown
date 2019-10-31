@@ -10,6 +10,8 @@ This might've been the weekend after the trip to Yosemite? We've been running al
 
 I still need to get out and shoot some. Driving down the street yesterday I say, it's all right here, I think it'll just fall into place now that I have a clearer idea of what the hell I'm after. Probably 6 months of chasing the light, if I'm lucky. Now that I've said that I've cursed myself to another decade of working on it. Ah well. More as it gets done.
 
+(oh, and a PS: Image #4 was straight out of camera, the colors really were that bonkers.)
+
 <span style="display:block;" class="center">
   <img src='https://photomattmills.com/images/paso-weekend/0001.jpg' alt="photos">
 <span class="caption"></span>
