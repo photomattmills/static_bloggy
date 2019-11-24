@@ -11,7 +11,7 @@ This was... sometime towards the end of September? I was freshly out of the boot
 Too many computers, and too many things happening to keep track of the photos, really. I need to spend some energy towards getting my photos from the last several months together. It's like, the moment I got my cast off and was allowed to walk again, things started taking off, and I didn't have any kind of routine in place to keep things organized, so they're spread out over my desktop, laptop, and iPad, and also some still on each camera (all three have seen some use). So yeah, trying to catch up and make sense of everything. Pushing out photos as I do.
 
 <span style="display:block;" class="center">
-  <img src='https://photomattmills.com/images/muir-woods-and-beach/0001.jpg' alt="""">
+  <img src='https://photomattmills.com/images/muir-woods-and-beach/0001.jpg' alt="">
 <span class="caption"></span>
 <img src='https://photomattmills.com/images/muir-woods-and-beach/0002.jpg' alt="">
 <span class="caption"></span>
